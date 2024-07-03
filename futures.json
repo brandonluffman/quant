@@ -1,0 +1,3302 @@
+[
+    {
+        "Name": "10Y1!\nMicro 10-Year Yield Futures\nD"
+    },
+    {
+        "Name": "2YY1!\nMicro 2-Year Yield Futures\nD"
+    },
+    {
+        "Name": "30Y1!\nMicro 30-Year Yield Futures\nD"
+    },
+    {
+        "Name": "55U1!\n30-Year UMBS TBA Futures - 5.5% Coupon\nD"
+    },
+    {
+        "Name": "5YY1!\nMicro 5-Year Yield Futures\nD"
+    },
+    {
+        "Name": "60U1!\n30-Year UMBS TBA Futures - 6.0% Coupon\nD"
+    },
+    {
+        "Name": "6A1!\nAustralian Dollar Futures\nD"
+    },
+    {
+        "Name": "6B1!\nBritish Pound Futures\nD"
+    },
+    {
+        "Name": "6C1!\nCanadian Dollar Futures\nD"
+    },
+    {
+        "Name": "6E1!\nEuro FX Futures\nD"
+    },
+    {
+        "Name": "6J1!\nJapanese Yen Futures\nD"
+    },
+    {
+        "Name": "6L1!\nBrazilian Real Futures\nD"
+    },
+    {
+        "Name": "6M1!\nMexican Peso Futures\nD"
+    },
+    {
+        "Name": "6N1!\nNew Zealand Dollar Futures\nD"
+    },
+    {
+        "Name": "6R1!\nRussian Ruble Futures\nD"
+    },
+    {
+        "Name": "6S1!\nSwiss Franc Futures\nD"
+    },
+    {
+        "Name": "6Z1!\nSouth African Rand Futures\nD"
+    },
+    {
+        "Name": "A9N1!\nArgus Propane (Saudi Aramco) Futures\nD"
+    },
+    {
+        "Name": "ACF1!\nSGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures\nD"
+    },
+    {
+        "Name": "AG1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "AH1!\nAluminium High Grade Futures\nD"
+    },
+    {
+        "Name": "AL1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALI1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALUMINI1!\nAluminium Mini Futures"
+    },
+    {
+        "Name": "ALUMINIUM1!\nAluminium Futures"
+    },
+    {
+        "Name": "AP1!\nASX SPI 200 Index Futures\nD"
+    },
+    {
+        "Name": "ATW1!\nAPI2 Rotterdam Coal Futures\nD"
+    },
+    {
+        "Name": "AU1!\nGold Futures\nD"
+    },
+    {
+        "Name": "AW1!\nBloomberg Commodity Index Futures\nD"
+    },
+    {
+        "Name": "AZ11!\nEthanol T2 FOB Rdam Including Duty (Platts) Futures\nD"
+    },
+    {
+        "Name": "BANKNIFTY1!\nBANKNIFTY INDEX FUTURES"
+    },
+    {
+        "Name": "BANKNIFTY1!\nGIFT NIFTY BANK INDEX FUTURES"
+    },
+    {
+        "Name": "BGI1!\nLive Cattle Futures\nD"
+    },
+    {
+        "Name": "BKX1!\nBSE BANKEX"
+    },
+    {
+        "Name": "BLK1!\nBlock Cheese Futures\nD"
+    },
+    {
+        "Name": "BR1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BR1!\nButadiene Rubber Futures\nD"
+    },
+    {
+        "Name": "BRF1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BRN1!\nBrent Crude Futures\nD"
+    },
+    {
+        "Name": "BSX1!\nSENSEX INDEX FUTURES"
+    },
+    {
+        "Name": "BTC1!\nBitcoin Futures\nD"
+    },
+    {
+        "Name": "BU1!\nBitumen Futures\nD"
+    },
+    {
+        "Name": "BUX1!\nBUX Index Futures\nD"
+    },
+    {
+        "Name": "BZ1!\nBrent Last Day Financial Futures\nD"
+    },
+    {
+        "Name": "C\nC1!\nLondon Cocoa Futures\nD"
+    },
+    {
+        "Name": "C101!\nLONG SWISS CONFEDERATION BOND FUTURES\nD"
+    },
+    {
+        "Name": "CA1!\nGrade A Copper Futures\nD"
+    },
+    {
+        "Name": "CASTOR1!\nCastor Seed Futures"
+    },
+    {
+        "Name": "CB1!\nCash-settled Butter Futures\nD"
+    },
+    {
+        "Name": "CC1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CCM1!\nCash Settled Corn\nD"
+    },
+    {
+        "Name": "CJ1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CL1!\nCrude Oil Futures\nD"
+    },
+    {
+        "Name": "CN1!\nFTSE CHINA A50 INDEX Futures\nD"
+    },
+    {
+        "Name": "CNH1!\nStandard-Size USD/Offshore RMB (CNH) Futures\nD"
+    },
+    {
+        "Name": "CO1!\nCobalt Futures\nD"
+    },
+    {
+        "Name": "COB1!\nCobalt Metal (Fastmarkets) Futures\nD"
+    },
+    {
+        "Name": "COCUDAKL1!\nUndecorticated Cotton Seed Oilcake \u2013 Akola Futures"
+    },
+    {
+        "Name": "COPPER1!\nCopper Futures"
+    },
+    {
+        "Name": "COTTONCNDY1!\nCOTTONCNDY Futures"
+    },
+    {
+        "Name": "CPO1!\nUSD Malaysian Crude Palm Oil Calendar Futures\nD"
+    },
+    {
+        "Name": "CR1!\nFutures on CNY/RUB Exchange Rate\nD"
+    },
+    {
+        "Name": "CRUDEOIL1!\nCrude Oil Futures"
+    },
+    {
+        "Name": "CRUDEOILM1!\nCrude Oil Mini Futures"
+    },
+    {
+        "Name": "CS11!\nContainer Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CS61!\nContainer Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CSC1!\nCash-Settled Cheese Futures\nD"
+    },
+    {
+        "Name": "CT1!\nCotton No. 2 Futures\nD"
+    },
+    {
+        "Name": "CU1!\nChicago Ethanol (Platts) Futures\nD"
+    },
+    {
+        "Name": "CU1!\nCopper Cathode Futures\nD"
+    },
+    {
+        "Name": "CUS1!\nUSD/CNH Futures\nD"
+    },
+    {
+        "Name": "D1N1!\nSingapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures\nD"
+    },
+    {
+        "Name": "DAP1!\nID x IPCA Spread Futures\nD"
+    },
+    {
+        "Name": "DAX1!\nDAX Futures\nD"
+    },
+    {
+        "Name": "DC1!\nClass III Milk Futures\nD"
+    },
+    {
+        "Name": "DDI1!\nID x U.S. Dollar Spread Futures\nD"
+    },
+    {
+        "Name": "DEB1!\nGerman Power Baseload Calendar Month Futures\nD"
+    },
+    {
+        "Name": "DHANIYA1!\nCoriander Futures"
+    },
+    {
+        "Name": "DI11!\nOne-day Interbank Deposit Futures\nD"
+    },
+    {
+        "Name": "DJIA1!\nDJIA FUTURES\nD"
+    },
+    {
+        "Name": "DLR1!\nDollar Futures"
+    },
+    {
+        "Name": "DOL1!\nUS Dollar Futures\nD"
+    },
+    {
+        "Name": "DX1!\nUS Dollar Index\u00ae Futures\nD"
+    },
+    {
+        "Name": "E71!\nE-mini Euro FX Futures\nD"
+    },
+    {
+        "Name": "ECF1!\nEUA FUTURES\nE"
+    },
+    {
+        "Name": "ED1!\nEuro-US Dollar Futures\nD"
+    },
+    {
+        "Name": "EMD1!\nE-mini S&P MidCap 400 Futures\nD"
+    },
+    {
+        "Name": "ES1!\nSA Base Load Month Electricity Futures\nD"
+    },
+    {
+        "Name": "ES1!\nE-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ESR1!\nEuro Short-Term Rate (\u20acSTR) Futures\nD"
+    },
+    {
+        "Name": "EST1!\nBTIC E-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nEthereum Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nHydrous Ethanol Futures\nD"
+    },
+    {
+        "Name": "EU1!\nEuro-Ruble Futures\nD"
+    },
+    {
+        "Name": "EURINR1!\nEURINR Futures"
+    },
+    {
+        "Name": "EURTRY1!\nEuro/Turkish Lira Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURO/USD Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures"
+    },
+    {
+        "Name": "FATX1!\nATX Futures\nD"
+    },
+    {
+        "Name": "10Y1!\nMicro 10-Year Yield Futures\nD"
+    },
+    {
+        "Name": "2YY1!\nMicro 2-Year Yield Futures\nD"
+    },
+    {
+        "Name": "30Y1!\nMicro 30-Year Yield Futures\nD"
+    },
+    {
+        "Name": "55U1!\n30-Year UMBS TBA Futures - 5.5% Coupon\nD"
+    },
+    {
+        "Name": "5YY1!\nMicro 5-Year Yield Futures\nD"
+    },
+    {
+        "Name": "60U1!\n30-Year UMBS TBA Futures - 6.0% Coupon\nD"
+    },
+    {
+        "Name": "6A1!\nAustralian Dollar Futures\nD"
+    },
+    {
+        "Name": "6B1!\nBritish Pound Futures\nD"
+    },
+    {
+        "Name": "6C1!\nCanadian Dollar Futures\nD"
+    },
+    {
+        "Name": "6E1!\nEuro FX Futures\nD"
+    },
+    {
+        "Name": "6J1!\nJapanese Yen Futures\nD"
+    },
+    {
+        "Name": "6L1!\nBrazilian Real Futures\nD"
+    },
+    {
+        "Name": "6M1!\nMexican Peso Futures\nD"
+    },
+    {
+        "Name": "6N1!\nNew Zealand Dollar Futures\nD"
+    },
+    {
+        "Name": "6R1!\nRussian Ruble Futures\nD"
+    },
+    {
+        "Name": "6S1!\nSwiss Franc Futures\nD"
+    },
+    {
+        "Name": "6Z1!\nSouth African Rand Futures\nD"
+    },
+    {
+        "Name": "A9N1!\nArgus Propane (Saudi Aramco) Futures\nD"
+    },
+    {
+        "Name": "ACF1!\nSGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures\nD"
+    },
+    {
+        "Name": "AG1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "AH1!\nAluminium High Grade Futures\nD"
+    },
+    {
+        "Name": "AL1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALI1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALUMINI1!\nAluminium Mini Futures"
+    },
+    {
+        "Name": "ALUMINIUM1!\nAluminium Futures"
+    },
+    {
+        "Name": "AP1!\nASX SPI 200 Index Futures\nD"
+    },
+    {
+        "Name": "ATW1!\nAPI2 Rotterdam Coal Futures\nD"
+    },
+    {
+        "Name": "AU1!\nGold Futures\nD"
+    },
+    {
+        "Name": "AW1!\nBloomberg Commodity Index Futures\nD"
+    },
+    {
+        "Name": "AZ11!\nEthanol T2 FOB Rdam Including Duty (Platts) Futures\nD"
+    },
+    {
+        "Name": "BANKNIFTY1!\nBANKNIFTY INDEX FUTURES"
+    },
+    {
+        "Name": "BANKNIFTY1!\nGIFT NIFTY BANK INDEX FUTURES"
+    },
+    {
+        "Name": "BGI1!\nLive Cattle Futures\nD"
+    },
+    {
+        "Name": "BKX1!\nBSE BANKEX"
+    },
+    {
+        "Name": "BLK1!\nBlock Cheese Futures\nD"
+    },
+    {
+        "Name": "BR1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BR1!\nButadiene Rubber Futures\nD"
+    },
+    {
+        "Name": "BRF1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BRN1!\nBrent Crude Futures\nD"
+    },
+    {
+        "Name": "BSX1!\nSENSEX INDEX FUTURES"
+    },
+    {
+        "Name": "BTC1!\nBitcoin Futures\nD"
+    },
+    {
+        "Name": "BU1!\nBitumen Futures\nD"
+    },
+    {
+        "Name": "BUX1!\nBUX Index Futures\nD"
+    },
+    {
+        "Name": "BZ1!\nBrent Last Day Financial Futures\nD"
+    },
+    {
+        "Name": "C\nC1!\nLondon Cocoa Futures\nD"
+    },
+    {
+        "Name": "C101!\nLONG SWISS CONFEDERATION BOND FUTURES\nD"
+    },
+    {
+        "Name": "CA1!\nGrade A Copper Futures\nD"
+    },
+    {
+        "Name": "CASTOR1!\nCastor Seed Futures"
+    },
+    {
+        "Name": "CB1!\nCash-settled Butter Futures\nD"
+    },
+    {
+        "Name": "CC1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CCM1!\nCash Settled Corn\nD"
+    },
+    {
+        "Name": "CJ1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CL1!\nCrude Oil Futures\nD"
+    },
+    {
+        "Name": "CN1!\nFTSE CHINA A50 INDEX Futures\nD"
+    },
+    {
+        "Name": "CNH1!\nStandard-Size USD/Offshore RMB (CNH) Futures\nD"
+    },
+    {
+        "Name": "CO1!\nCobalt Futures\nD"
+    },
+    {
+        "Name": "COB1!\nCobalt Metal (Fastmarkets) Futures\nD"
+    },
+    {
+        "Name": "COCUDAKL1!\nUndecorticated Cotton Seed Oilcake \u2013 Akola Futures"
+    },
+    {
+        "Name": "COPPER1!\nCopper Futures"
+    },
+    {
+        "Name": "COTTONCNDY1!\nCOTTONCNDY Futures"
+    },
+    {
+        "Name": "CPO1!\nUSD Malaysian Crude Palm Oil Calendar Futures\nD"
+    },
+    {
+        "Name": "CR1!\nFutures on CNY/RUB Exchange Rate\nD"
+    },
+    {
+        "Name": "CRUDEOIL1!\nCrude Oil Futures"
+    },
+    {
+        "Name": "CRUDEOILM1!\nCrude Oil Mini Futures"
+    },
+    {
+        "Name": "CS11!\nContainer Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CS61!\nContainer Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CSC1!\nCash-Settled Cheese Futures\nD"
+    },
+    {
+        "Name": "CT1!\nCotton No. 2 Futures\nD"
+    },
+    {
+        "Name": "CU1!\nChicago Ethanol (Platts) Futures\nD"
+    },
+    {
+        "Name": "CU1!\nCopper Cathode Futures\nD"
+    },
+    {
+        "Name": "CUS1!\nUSD/CNH Futures\nD"
+    },
+    {
+        "Name": "D1N1!\nSingapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures\nD"
+    },
+    {
+        "Name": "DAP1!\nID x IPCA Spread Futures\nD"
+    },
+    {
+        "Name": "DAX1!\nDAX Futures\nD"
+    },
+    {
+        "Name": "DC1!\nClass III Milk Futures\nD"
+    },
+    {
+        "Name": "DDI1!\nID x U.S. Dollar Spread Futures\nD"
+    },
+    {
+        "Name": "DEB1!\nGerman Power Baseload Calendar Month Futures\nD"
+    },
+    {
+        "Name": "DHANIYA1!\nCoriander Futures"
+    },
+    {
+        "Name": "DI11!\nOne-day Interbank Deposit Futures\nD"
+    },
+    {
+        "Name": "DJIA1!\nDJIA FUTURES\nD"
+    },
+    {
+        "Name": "DLR1!\nDollar Futures"
+    },
+    {
+        "Name": "DOL1!\nUS Dollar Futures\nD"
+    },
+    {
+        "Name": "DX1!\nUS Dollar Index\u00ae Futures\nD"
+    },
+    {
+        "Name": "E71!\nE-mini Euro FX Futures\nD"
+    },
+    {
+        "Name": "ECF1!\nEUA FUTURES\nE"
+    },
+    {
+        "Name": "ED1!\nEuro-US Dollar Futures\nD"
+    },
+    {
+        "Name": "EMD1!\nE-mini S&P MidCap 400 Futures\nD"
+    },
+    {
+        "Name": "ES1!\nSA Base Load Month Electricity Futures\nD"
+    },
+    {
+        "Name": "ES1!\nE-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ESR1!\nEuro Short-Term Rate (\u20acSTR) Futures\nD"
+    },
+    {
+        "Name": "EST1!\nBTIC E-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nEthereum Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nHydrous Ethanol Futures\nD"
+    },
+    {
+        "Name": "EU1!\nEuro-Ruble Futures\nD"
+    },
+    {
+        "Name": "EURINR1!\nEURINR Futures"
+    },
+    {
+        "Name": "EURTRY1!\nEuro/Turkish Lira Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURO/USD Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures"
+    },
+    {
+        "Name": "FATX1!\nATX Futures\nD"
+    },
+    {
+        "Name": "10Y1!\nMicro 10-Year Yield Futures\nD"
+    },
+    {
+        "Name": "2YY1!\nMicro 2-Year Yield Futures\nD"
+    },
+    {
+        "Name": "30Y1!\nMicro 30-Year Yield Futures\nD"
+    },
+    {
+        "Name": "55U1!\n30-Year UMBS TBA Futures - 5.5% Coupon\nD"
+    },
+    {
+        "Name": "5YY1!\nMicro 5-Year Yield Futures\nD"
+    },
+    {
+        "Name": "60U1!\n30-Year UMBS TBA Futures - 6.0% Coupon\nD"
+    },
+    {
+        "Name": "6A1!\nAustralian Dollar Futures\nD"
+    },
+    {
+        "Name": "6B1!\nBritish Pound Futures\nD"
+    },
+    {
+        "Name": "6C1!\nCanadian Dollar Futures\nD"
+    },
+    {
+        "Name": "6E1!\nEuro FX Futures\nD"
+    },
+    {
+        "Name": "6J1!\nJapanese Yen Futures\nD"
+    },
+    {
+        "Name": "6L1!\nBrazilian Real Futures\nD"
+    },
+    {
+        "Name": "6M1!\nMexican Peso Futures\nD"
+    },
+    {
+        "Name": "6N1!\nNew Zealand Dollar Futures\nD"
+    },
+    {
+        "Name": "6R1!\nRussian Ruble Futures\nD"
+    },
+    {
+        "Name": "6S1!\nSwiss Franc Futures\nD"
+    },
+    {
+        "Name": "6Z1!\nSouth African Rand Futures\nD"
+    },
+    {
+        "Name": "A9N1!\nArgus Propane (Saudi Aramco) Futures\nD"
+    },
+    {
+        "Name": "ACF1!\nSGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures\nD"
+    },
+    {
+        "Name": "AG1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "AH1!\nAluminium High Grade Futures\nD"
+    },
+    {
+        "Name": "AL1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALI1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALUMINI1!\nAluminium Mini Futures"
+    },
+    {
+        "Name": "ALUMINIUM1!\nAluminium Futures"
+    },
+    {
+        "Name": "AP1!\nASX SPI 200 Index Futures\nD"
+    },
+    {
+        "Name": "ATW1!\nAPI2 Rotterdam Coal Futures\nD"
+    },
+    {
+        "Name": "AU1!\nGold Futures\nD"
+    },
+    {
+        "Name": "AW1!\nBloomberg Commodity Index Futures\nD"
+    },
+    {
+        "Name": "AZ11!\nEthanol T2 FOB Rdam Including Duty (Platts) Futures\nD"
+    },
+    {
+        "Name": "BANKNIFTY1!\nBANKNIFTY INDEX FUTURES"
+    },
+    {
+        "Name": "BANKNIFTY1!\nGIFT NIFTY BANK INDEX FUTURES"
+    },
+    {
+        "Name": "BGI1!\nLive Cattle Futures\nD"
+    },
+    {
+        "Name": "BKX1!\nBSE BANKEX"
+    },
+    {
+        "Name": "BLK1!\nBlock Cheese Futures\nD"
+    },
+    {
+        "Name": "BR1!\nButadiene Rubber Futures\nD"
+    },
+    {
+        "Name": "BR1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BRF1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BRN1!\nBrent Crude Futures\nD"
+    },
+    {
+        "Name": "BSX1!\nSENSEX INDEX FUTURES"
+    },
+    {
+        "Name": "BTC1!\nBitcoin Futures\nD"
+    },
+    {
+        "Name": "BU1!\nBitumen Futures\nD"
+    },
+    {
+        "Name": "BUX1!\nBUX Index Futures\nD"
+    },
+    {
+        "Name": "BZ1!\nBrent Last Day Financial Futures\nD"
+    },
+    {
+        "Name": "C\nC1!\nLondon Cocoa Futures\nD"
+    },
+    {
+        "Name": "C101!\nLONG SWISS CONFEDERATION BOND FUTURES\nD"
+    },
+    {
+        "Name": "CA1!\nGrade A Copper Futures\nD"
+    },
+    {
+        "Name": "CASTOR1!\nCastor Seed Futures"
+    },
+    {
+        "Name": "CB1!\nCash-settled Butter Futures\nD"
+    },
+    {
+        "Name": "CC1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CCM1!\nCash Settled Corn\nD"
+    },
+    {
+        "Name": "CJ1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CL1!\nCrude Oil Futures\nD"
+    },
+    {
+        "Name": "CN1!\nFTSE CHINA A50 INDEX Futures\nD"
+    },
+    {
+        "Name": "CNH1!\nStandard-Size USD/Offshore RMB (CNH) Futures\nD"
+    },
+    {
+        "Name": "CO1!\nCobalt Futures\nD"
+    },
+    {
+        "Name": "COB1!\nCobalt Metal (Fastmarkets) Futures\nD"
+    },
+    {
+        "Name": "COCUDAKL1!\nUndecorticated Cotton Seed Oilcake \u2013 Akola Futures"
+    },
+    {
+        "Name": "COPPER1!\nCopper Futures"
+    },
+    {
+        "Name": "COTTONCNDY1!\nCOTTONCNDY Futures"
+    },
+    {
+        "Name": "CPO1!\nUSD Malaysian Crude Palm Oil Calendar Futures\nD"
+    },
+    {
+        "Name": "CR1!\nFutures on CNY/RUB Exchange Rate\nD"
+    },
+    {
+        "Name": "CRUDEOIL1!\nCrude Oil Futures"
+    },
+    {
+        "Name": "CRUDEOILM1!\nCrude Oil Mini Futures"
+    },
+    {
+        "Name": "CS11!\nContainer Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CS61!\nContainer Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CSC1!\nCash-Settled Cheese Futures\nD"
+    },
+    {
+        "Name": "CT1!\nCotton No. 2 Futures\nD"
+    },
+    {
+        "Name": "CU1!\nChicago Ethanol (Platts) Futures\nD"
+    },
+    {
+        "Name": "CU1!\nCopper Cathode Futures\nD"
+    },
+    {
+        "Name": "CUS1!\nUSD/CNH Futures\nD"
+    },
+    {
+        "Name": "D1N1!\nSingapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures\nD"
+    },
+    {
+        "Name": "DAP1!\nID x IPCA Spread Futures\nD"
+    },
+    {
+        "Name": "DAX1!\nDAX Futures\nD"
+    },
+    {
+        "Name": "DC1!\nClass III Milk Futures\nD"
+    },
+    {
+        "Name": "DDI1!\nID x U.S. Dollar Spread Futures\nD"
+    },
+    {
+        "Name": "DEB1!\nGerman Power Baseload Calendar Month Futures\nD"
+    },
+    {
+        "Name": "DHANIYA1!\nCoriander Futures"
+    },
+    {
+        "Name": "DI11!\nOne-day Interbank Deposit Futures\nD"
+    },
+    {
+        "Name": "DJIA1!\nDJIA FUTURES\nD"
+    },
+    {
+        "Name": "DLR1!\nDollar Futures"
+    },
+    {
+        "Name": "DOL1!\nUS Dollar Futures\nD"
+    },
+    {
+        "Name": "DX1!\nUS Dollar Index\u00ae Futures\nD"
+    },
+    {
+        "Name": "E71!\nE-mini Euro FX Futures\nD"
+    },
+    {
+        "Name": "ECF1!\nEUA FUTURES\nE"
+    },
+    {
+        "Name": "ED1!\nEuro-US Dollar Futures\nD"
+    },
+    {
+        "Name": "EMD1!\nE-mini S&P MidCap 400 Futures\nD"
+    },
+    {
+        "Name": "ES1!\nE-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ES1!\nSA Base Load Month Electricity Futures\nD"
+    },
+    {
+        "Name": "ESR1!\nEuro Short-Term Rate (\u20acSTR) Futures\nD"
+    },
+    {
+        "Name": "EST1!\nBTIC E-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nHydrous Ethanol Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nEthereum Futures\nD"
+    },
+    {
+        "Name": "EU1!\nEuro-Ruble Futures\nD"
+    },
+    {
+        "Name": "EURINR1!\nEURINR Futures"
+    },
+    {
+        "Name": "EURTRY1!\nEuro/Turkish Lira Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURO/USD Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures"
+    },
+    {
+        "Name": "FATX1!\nATX Futures\nD"
+    },
+    {
+        "Name": "FBK21!\nEurex Daily Futures on KOSPI 200 Futures\nD"
+    },
+    {
+        "Name": "FBON1!\nEuro-BONO Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FBTP1!\nLong-Term Euro-BTP Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FCE1!\nCAC 40 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FCEU1!\nEUR/USD Futures\nD"
+    },
+    {
+        "Name": "FCPO1!\nCrude Palm Oil Futures\nD"
+    },
+    {
+        "Name": "FDAX1!\nDAX Futures\nD"
+    },
+    {
+        "Name": "FDXM1!\nMini-DAX Futures\nD"
+    },
+    {
+        "Name": "FDXS1!\nMicro-DAX Futures\nD"
+    },
+    {
+        "Name": "FEF1!\nSGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures,Jul-2024,Composite Futures\nD"
+    },
+    {
+        "Name": "FESB1!\nEURO STOXX Banks Futures\nD"
+    },
+    {
+        "Name": "FESX1!\nEURO STOXX 50 Index Futures\nD"
+    },
+    {
+        "Name": "FFOX1!\nOMXH25 Futures\nD"
+    },
+    {
+        "Name": "FGBL1!\nEuro-Bund Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGBM1!\nEuro-Bobl Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGBS1!\nEuro-Schatz Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGBX1!\nEURO-Buxl Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGLD1!\nGold Futures\nD"
+    },
+    {
+        "Name": "FINNIFTY1!\nFINNIFTY FUTURES"
+    },
+    {
+        "Name": "FKLI1!\nFTSE Bursa Malaysia KLCI Futures\nD"
+    },
+    {
+        "Name": "FMWO1!\nMSCI World Index Futures\nD"
+    },
+    {
+        "Name": "FNG1!\nMICRO NYSE FANG+\u2122 Index Futures\nD"
+    },
+    {
+        "Name": "FOAT1!\nEuro-OAT Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FSMI1!\nSMI Futures\nD"
+    },
+    {
+        "Name": "FSOY1!\nDCE Soybean Oil Futures\nD"
+    },
+    {
+        "Name": "FSR31!\n3M SARON Futures\nD"
+    },
+    {
+        "Name": "FTI1!\nAEX INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FTUK1!\nFTSE 100 Index Futures\nD"
+    },
+    {
+        "Name": "FU1!\nFuel Oil Futures\nD"
+    },
+    {
+        "Name": "FUSD1!\nUS Dollar Futures\nD"
+    },
+    {
+        "Name": "FVS1!\nFVS-VSTOXX Futures\nD"
+    },
+    {
+        "Name": "FW201!\nWIG20 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FW401!\nWIG40 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FXXP1!\nSTOXX Europe 600 Index Futures\nD"
+    },
+    {
+        "Name": "G1!\nSHORT GILT FUTURES\nD"
+    },
+    {
+        "Name": "G101!\nLONG GERMAN BOND FUTURE (BUND)\nD"
+    },
+    {
+        "Name": "G301!\nULTRA LONG GERMAN BOND FUTURE (BUXL)\nD"
+    },
+    {
+        "Name": "GBP1!\n10YR GBP SONIA SWAPNOTE\nD"
+    },
+    {
+        "Name": "GBPINR1!\nGBPINR Futures"
+    },
+    {
+        "Name": "GBPUSD1!\nGBP/USD Futures\nD"
+    },
+    {
+        "Name": "GBPUSD1!\nGBPUSD Futures"
+    },
+    {
+        "Name": "GC1!\nGold Futures\nD"
+    },
+    {
+        "Name": "GD1!\nGold Futures\nD"
+    },
+    {
+        "Name": "GEO1!\nCBL Global Emissions Offset Futures\nD"
+    },
+    {
+        "Name": "GF1!\nFeeder Cattle Futures\nD"
+    },
+    {
+        "Name": "GF101!\n10 Baht Gold Futures\nD"
+    },
+    {
+        "Name": "GNF1!\nNonfat Dry Milk Futures\nD"
+    },
+    {
+        "Name": "GO1!\nGold Online Futures\nD"
+    },
+    {
+        "Name": "GOLD1!\nGold Futures"
+    },
+    {
+        "Name": "GOLDGUINEA1!\nGold Guinea Futures"
+    },
+    {
+        "Name": "GOLDM1!\nGold Mini Futures"
+    },
+    {
+        "Name": "GOLDPETAL1!\nGold Petal Futures"
+    },
+    {
+        "Name": "GUARGUM51!\nGuar Gum Refined Splits Futures"
+    },
+    {
+        "Name": "GUARSEED101!\nGuar Seed Futures"
+    },
+    {
+        "Name": "GWM1!\nUK NBP Natural Gas Futures\nD"
+    },
+    {
+        "Name": "H1!\nMEDIUM GILT FUTURES\nD"
+    },
+    {
+        "Name": "HC1!\nHot Rolled Coils Futures\nD"
+    },
+    {
+        "Name": "HE1!\nLean Hog Futures\nD"
+    },
+    {
+        "Name": "HG1!\nCopper Futures\nD"
+    },
+    {
+        "Name": "HH1!\nNatural Gas (Henry Hub) Last-day Financial Futures\nD"
+    },
+    {
+        "Name": "HHI1!\nHang Seng China Enterprises Index (HSCEI) Futures\nD"
+    },
+    {
+        "Name": "HK1!\nHKD/RUB Exchange rate futures\nD"
+    },
+    {
+        "Name": "HO1!\nNY Harbor ULSD Futures\nD"
+    },
+    {
+        "Name": "HRC1!\nU.S. Midwest Domestic Hot-Rolled Coil Steel (CRU) Index Futures\nD"
+    },
+    {
+        "Name": "HSI1!\nHang Seng Index Futures\nD"
+    },
+    {
+        "Name": "HTI1!\nHang Seng TECH Index Futures\nD"
+    },
+    {
+        "Name": "I051!\nMEDIUM ITALIAN BOND (BTP) FUTURES\nD"
+    },
+    {
+        "Name": "I1!\nTHREE MONTH EURO (EURIBOR) FUTURES\nD"
+    },
+    {
+        "Name": "I101!\nLONG ITALIAN BOND (BTP) FUTURES\nD"
+    },
+    {
+        "Name": "ICF1!\nArabica Coffee Futures\nD"
+    },
+    {
+        "Name": "ILS1!\nIsraeli Shekel Futures\nD"
+    },
+    {
+        "Name": "IMV1!\nS&P Merval Futures\nD"
+    },
+    {
+        "Name": "IND1!\nBovespa Index Futures\nD"
+    },
+    {
+        "Name": "INR1!\nUSD/INR (USD) Futures\nD"
+    },
+    {
+        "Name": "ISP1!\nS&P 500 Index Futures\nD"
+    },
+    {
+        "Name": "IU1!\nINR/USD Futures\nD"
+    },
+    {
+        "Name": "J71!\nE-mini Japanese Yen Futures\nD"
+    },
+    {
+        "Name": "JB1!\nMINI Japan GOVT BOND Futures\nD"
+    },
+    {
+        "Name": "JEERAUNJHA1!\nJeera Futures"
+    },
+    {
+        "Name": "JG1!\nJapan GOVT BOND Futures\nD"
+    },
+    {
+        "Name": "JN4001!\nJPX400 FUTURES\nD"
+    },
+    {
+        "Name": "JPYINR1!\nJPYINR Futures"
+    },
+    {
+        "Name": "K1!\nTHREE MONTH EURO (EURIBOR) 1YR MID-CURVE\nD"
+    },
+    {
+        "Name": "KAPAS1!\nKapas Futures"
+    },
+    {
+        "Name": "KC1!\nCoffee C Futures\nD"
+    },
+    {
+        "Name": "KE1!\nKC HRW Wheat Futures\nD"
+    },
+    {
+        "Name": "KRW1!\nKorean Won Futures\nD"
+    },
+    {
+        "Name": "KT1!\nCoffee Futures\nD"
+    },
+    {
+        "Name": "KU1!\nKRW/USD (Mini) Futures\nD"
+    },
+    {
+        "Name": "LBR1!\nLumber Futures\nD"
+    },
+    {
+        "Name": "LE1!\nLive Cattle Futures\nD"
+    },
+    {
+        "Name": "LEAD1!\nLead Futures"
+    },
+    {
+        "Name": "LEADMINI1!\nLead Mini Futures"
+    },
+    {
+        "Name": "LH1!\nLME Lithium Hydroxide CIF (Fastmarkets MB) Futures\nD"
+    },
+    {
+        "Name": "LT1!\nASX 20 Year Treasury Bond Futures\nD"
+    },
+    {
+        "Name": "LTC1!\nLithium Carbonate CIF CJK (Fastmarkets) Futures\nD"
+    },
+    {
+        "Name": "LTH1!\nLithium futures\nD"
+    },
+    {
+        "Name": "M2K1!\nMicro E-mini Russell 2000 Index Futures\nD"
+    },
+    {
+        "Name": "M6A1!\nMicro AUD/USD Futures\nD"
+    },
+    {
+        "Name": "M6B1!\nMicro GBP/USD Futures\nD"
+    },
+    {
+        "Name": "10Y1!\nMicro 10-Year Yield Futures\nD"
+    },
+    {
+        "Name": "2YY1!\nMicro 2-Year Yield Futures\nD"
+    },
+    {
+        "Name": "30Y1!\nMicro 30-Year Yield Futures\nD"
+    },
+    {
+        "Name": "55U1!\n30-Year UMBS TBA Futures - 5.5% Coupon\nD"
+    },
+    {
+        "Name": "5YY1!\nMicro 5-Year Yield Futures\nD"
+    },
+    {
+        "Name": "60U1!\n30-Year UMBS TBA Futures - 6.0% Coupon\nD"
+    },
+    {
+        "Name": "6A1!\nAustralian Dollar Futures\nD"
+    },
+    {
+        "Name": "6B1!\nBritish Pound Futures\nD"
+    },
+    {
+        "Name": "6C1!\nCanadian Dollar Futures\nD"
+    },
+    {
+        "Name": "6E1!\nEuro FX Futures\nD"
+    },
+    {
+        "Name": "6J1!\nJapanese Yen Futures\nD"
+    },
+    {
+        "Name": "6L1!\nBrazilian Real Futures\nD"
+    },
+    {
+        "Name": "6M1!\nMexican Peso Futures\nD"
+    },
+    {
+        "Name": "6N1!\nNew Zealand Dollar Futures\nD"
+    },
+    {
+        "Name": "6R1!\nRussian Ruble Futures\nD"
+    },
+    {
+        "Name": "6S1!\nSwiss Franc Futures\nD"
+    },
+    {
+        "Name": "6Z1!\nSouth African Rand Futures\nD"
+    },
+    {
+        "Name": "A9N1!\nArgus Propane (Saudi Aramco) Futures\nD"
+    },
+    {
+        "Name": "ACF1!\nSGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures\nD"
+    },
+    {
+        "Name": "AG1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "AH1!\nAluminium High Grade Futures\nD"
+    },
+    {
+        "Name": "AL1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALI1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALUMINI1!\nAluminium Mini Futures"
+    },
+    {
+        "Name": "ALUMINIUM1!\nAluminium Futures"
+    },
+    {
+        "Name": "AP1!\nASX SPI 200 Index Futures\nD"
+    },
+    {
+        "Name": "ATW1!\nAPI2 Rotterdam Coal Futures\nD"
+    },
+    {
+        "Name": "AU1!\nGold Futures\nD"
+    },
+    {
+        "Name": "AW1!\nBloomberg Commodity Index Futures\nD"
+    },
+    {
+        "Name": "AZ11!\nEthanol T2 FOB Rdam Including Duty (Platts) Futures\nD"
+    },
+    {
+        "Name": "BANKNIFTY1!\nGIFT NIFTY BANK INDEX FUTURES"
+    },
+    {
+        "Name": "BANKNIFTY1!\nBANKNIFTY INDEX FUTURES"
+    },
+    {
+        "Name": "BGI1!\nLive Cattle Futures\nD"
+    },
+    {
+        "Name": "BKX1!\nBSE BANKEX"
+    },
+    {
+        "Name": "BLK1!\nBlock Cheese Futures\nD"
+    },
+    {
+        "Name": "BR1!\nButadiene Rubber Futures\nD"
+    },
+    {
+        "Name": "BR1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BRF1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BRN1!\nBrent Crude Futures\nD"
+    },
+    {
+        "Name": "BSX1!\nSENSEX INDEX FUTURES"
+    },
+    {
+        "Name": "BTC1!\nBitcoin Futures\nD"
+    },
+    {
+        "Name": "BU1!\nBitumen Futures\nD"
+    },
+    {
+        "Name": "BUX1!\nBUX Index Futures\nD"
+    },
+    {
+        "Name": "BZ1!\nBrent Last Day Financial Futures\nD"
+    },
+    {
+        "Name": "C\nC1!\nLondon Cocoa Futures\nD"
+    },
+    {
+        "Name": "C101!\nLONG SWISS CONFEDERATION BOND FUTURES\nD"
+    },
+    {
+        "Name": "CA1!\nGrade A Copper Futures\nD"
+    },
+    {
+        "Name": "CASTOR1!\nCastor Seed Futures"
+    },
+    {
+        "Name": "CB1!\nCash-settled Butter Futures\nD"
+    },
+    {
+        "Name": "CC1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CCM1!\nCash Settled Corn\nD"
+    },
+    {
+        "Name": "CJ1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CL1!\nCrude Oil Futures\nD"
+    },
+    {
+        "Name": "CN1!\nFTSE CHINA A50 INDEX Futures\nD"
+    },
+    {
+        "Name": "CNH1!\nStandard-Size USD/Offshore RMB (CNH) Futures\nD"
+    },
+    {
+        "Name": "CO1!\nCobalt Futures\nD"
+    },
+    {
+        "Name": "COB1!\nCobalt Metal (Fastmarkets) Futures\nD"
+    },
+    {
+        "Name": "COCUDAKL1!\nUndecorticated Cotton Seed Oilcake \u2013 Akola Futures"
+    },
+    {
+        "Name": "COPPER1!\nCopper Futures"
+    },
+    {
+        "Name": "COTTONCNDY1!\nCOTTONCNDY Futures"
+    },
+    {
+        "Name": "CPO1!\nUSD Malaysian Crude Palm Oil Calendar Futures\nD"
+    },
+    {
+        "Name": "CR1!\nFutures on CNY/RUB Exchange Rate\nD"
+    },
+    {
+        "Name": "CRUDEOIL1!\nCrude Oil Futures"
+    },
+    {
+        "Name": "CRUDEOILM1!\nCrude Oil Mini Futures"
+    },
+    {
+        "Name": "CS11!\nContainer Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CS61!\nContainer Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CSC1!\nCash-Settled Cheese Futures\nD"
+    },
+    {
+        "Name": "CT1!\nCotton No. 2 Futures\nD"
+    },
+    {
+        "Name": "CU1!\nCopper Cathode Futures\nD"
+    },
+    {
+        "Name": "CU1!\nChicago Ethanol (Platts) Futures\nD"
+    },
+    {
+        "Name": "CUS1!\nUSD/CNH Futures\nD"
+    },
+    {
+        "Name": "D1N1!\nSingapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures\nD"
+    },
+    {
+        "Name": "DAP1!\nID x IPCA Spread Futures\nD"
+    },
+    {
+        "Name": "DAX1!\nDAX Futures\nD"
+    },
+    {
+        "Name": "DC1!\nClass III Milk Futures\nD"
+    },
+    {
+        "Name": "DDI1!\nID x U.S. Dollar Spread Futures\nD"
+    },
+    {
+        "Name": "DEB1!\nGerman Power Baseload Calendar Month Futures\nD"
+    },
+    {
+        "Name": "DHANIYA1!\nCoriander Futures"
+    },
+    {
+        "Name": "DI11!\nOne-day Interbank Deposit Futures\nD"
+    },
+    {
+        "Name": "DJIA1!\nDJIA FUTURES\nD"
+    },
+    {
+        "Name": "DLR1!\nDollar Futures"
+    },
+    {
+        "Name": "DOL1!\nUS Dollar Futures\nD"
+    },
+    {
+        "Name": "DX1!\nUS Dollar Index\u00ae Futures\nD"
+    },
+    {
+        "Name": "E71!\nE-mini Euro FX Futures\nD"
+    },
+    {
+        "Name": "ECF1!\nEUA FUTURES\nE"
+    },
+    {
+        "Name": "ED1!\nEuro-US Dollar Futures\nD"
+    },
+    {
+        "Name": "EMD1!\nE-mini S&P MidCap 400 Futures\nD"
+    },
+    {
+        "Name": "ES1!\nE-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ES1!\nSA Base Load Month Electricity Futures\nD"
+    },
+    {
+        "Name": "ESR1!\nEuro Short-Term Rate (\u20acSTR) Futures\nD"
+    },
+    {
+        "Name": "EST1!\nBTIC E-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nHydrous Ethanol Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nEthereum Futures\nD"
+    },
+    {
+        "Name": "EU1!\nEuro-Ruble Futures\nD"
+    },
+    {
+        "Name": "EURINR1!\nEURINR Futures"
+    },
+    {
+        "Name": "EURTRY1!\nEuro/Turkish Lira Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures"
+    },
+    {
+        "Name": "EURUSD1!\nEURO/USD Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures\nD"
+    },
+    {
+        "Name": "FATX1!\nATX Futures\nD"
+    },
+    {
+        "Name": "FBK21!\nEurex Daily Futures on KOSPI 200 Futures\nD"
+    },
+    {
+        "Name": "FBON1!\nEuro-BONO Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FBTP1!\nLong-Term Euro-BTP Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FCE1!\nCAC 40 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FCEU1!\nEUR/USD Futures\nD"
+    },
+    {
+        "Name": "FCPO1!\nCrude Palm Oil Futures\nD"
+    },
+    {
+        "Name": "FDAX1!\nDAX Futures\nD"
+    },
+    {
+        "Name": "FDXM1!\nMini-DAX Futures\nD"
+    },
+    {
+        "Name": "FDXS1!\nMicro-DAX Futures\nD"
+    },
+    {
+        "Name": "FEF1!\nSGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures,Jul-2024,Composite Futures\nD"
+    },
+    {
+        "Name": "FESB1!\nEURO STOXX Banks Futures\nD"
+    },
+    {
+        "Name": "FESX1!\nEURO STOXX 50 Index Futures\nD"
+    },
+    {
+        "Name": "FFOX1!\nOMXH25 Futures\nD"
+    },
+    {
+        "Name": "FGBL1!\nEuro-Bund Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGBM1!\nEuro-Bobl Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGBS1!\nEuro-Schatz Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGBX1!\nEURO-Buxl Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGLD1!\nGold Futures\nD"
+    },
+    {
+        "Name": "FINNIFTY1!\nFINNIFTY FUTURES"
+    },
+    {
+        "Name": "FKLI1!\nFTSE Bursa Malaysia KLCI Futures\nD"
+    },
+    {
+        "Name": "FMWO1!\nMSCI World Index Futures\nD"
+    },
+    {
+        "Name": "FNG1!\nMICRO NYSE FANG+\u2122 Index Futures\nD"
+    },
+    {
+        "Name": "FOAT1!\nEuro-OAT Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FSMI1!\nSMI Futures\nD"
+    },
+    {
+        "Name": "FSOY1!\nDCE Soybean Oil Futures\nD"
+    },
+    {
+        "Name": "FSR31!\n3M SARON Futures\nD"
+    },
+    {
+        "Name": "FTI1!\nAEX INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FTUK1!\nFTSE 100 Index Futures\nD"
+    },
+    {
+        "Name": "FU1!\nFuel Oil Futures\nD"
+    },
+    {
+        "Name": "FUSD1!\nUS Dollar Futures\nD"
+    },
+    {
+        "Name": "FVS1!\nFVS-VSTOXX Futures\nD"
+    },
+    {
+        "Name": "FW201!\nWIG20 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FW401!\nWIG40 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FXXP1!\nSTOXX Europe 600 Index Futures\nD"
+    },
+    {
+        "Name": "G1!\nSHORT GILT FUTURES\nD"
+    },
+    {
+        "Name": "G101!\nLONG GERMAN BOND FUTURE (BUND)\nD"
+    },
+    {
+        "Name": "G301!\nULTRA LONG GERMAN BOND FUTURE (BUXL)\nD"
+    },
+    {
+        "Name": "GBP1!\n10YR GBP SONIA SWAPNOTE\nD"
+    },
+    {
+        "Name": "GBPINR1!\nGBPINR Futures"
+    },
+    {
+        "Name": "GBPUSD1!\nGBP/USD Futures\nD"
+    },
+    {
+        "Name": "GBPUSD1!\nGBPUSD Futures"
+    },
+    {
+        "Name": "GC1!\nGold Futures\nD"
+    },
+    {
+        "Name": "GD1!\nGold Futures\nD"
+    },
+    {
+        "Name": "GEO1!\nCBL Global Emissions Offset Futures\nD"
+    },
+    {
+        "Name": "GF1!\nFeeder Cattle Futures\nD"
+    },
+    {
+        "Name": "GF101!\n10 Baht Gold Futures\nD"
+    },
+    {
+        "Name": "GNF1!\nNonfat Dry Milk Futures\nD"
+    },
+    {
+        "Name": "GO1!\nGold Online Futures\nD"
+    },
+    {
+        "Name": "GOLD1!\nGold Futures"
+    },
+    {
+        "Name": "GOLDGUINEA1!\nGold Guinea Futures"
+    },
+    {
+        "Name": "GOLDM1!\nGold Mini Futures"
+    },
+    {
+        "Name": "GOLDPETAL1!\nGold Petal Futures"
+    },
+    {
+        "Name": "GUARGUM51!\nGuar Gum Refined Splits Futures"
+    },
+    {
+        "Name": "GUARSEED101!\nGuar Seed Futures"
+    },
+    {
+        "Name": "GWM1!\nUK NBP Natural Gas Futures\nD"
+    },
+    {
+        "Name": "H1!\nMEDIUM GILT FUTURES\nD"
+    },
+    {
+        "Name": "HC1!\nHot Rolled Coils Futures\nD"
+    },
+    {
+        "Name": "HE1!\nLean Hog Futures\nD"
+    },
+    {
+        "Name": "HG1!\nCopper Futures\nD"
+    },
+    {
+        "Name": "HH1!\nNatural Gas (Henry Hub) Last-day Financial Futures\nD"
+    },
+    {
+        "Name": "HHI1!\nHang Seng China Enterprises Index (HSCEI) Futures\nD"
+    },
+    {
+        "Name": "HK1!\nHKD/RUB Exchange rate futures\nD"
+    },
+    {
+        "Name": "HO1!\nNY Harbor ULSD Futures\nD"
+    },
+    {
+        "Name": "HRC1!\nU.S. Midwest Domestic Hot-Rolled Coil Steel (CRU) Index Futures\nD"
+    },
+    {
+        "Name": "HSI1!\nHang Seng Index Futures\nD"
+    },
+    {
+        "Name": "HTI1!\nHang Seng TECH Index Futures\nD"
+    },
+    {
+        "Name": "I051!\nMEDIUM ITALIAN BOND (BTP) FUTURES\nD"
+    },
+    {
+        "Name": "I1!\nTHREE MONTH EURO (EURIBOR) FUTURES\nD"
+    },
+    {
+        "Name": "I101!\nLONG ITALIAN BOND (BTP) FUTURES\nD"
+    },
+    {
+        "Name": "ICF1!\nArabica Coffee Futures\nD"
+    },
+    {
+        "Name": "ILS1!\nIsraeli Shekel Futures\nD"
+    },
+    {
+        "Name": "IMV1!\nS&P Merval Futures\nD"
+    },
+    {
+        "Name": "IND1!\nBovespa Index Futures\nD"
+    },
+    {
+        "Name": "INR1!\nUSD/INR (USD) Futures\nD"
+    },
+    {
+        "Name": "ISP1!\nS&P 500 Index Futures\nD"
+    },
+    {
+        "Name": "IU1!\nINR/USD Futures\nD"
+    },
+    {
+        "Name": "J71!\nE-mini Japanese Yen Futures\nD"
+    },
+    {
+        "Name": "JB1!\nMINI Japan GOVT BOND Futures\nD"
+    },
+    {
+        "Name": "JEERAUNJHA1!\nJeera Futures"
+    },
+    {
+        "Name": "JG1!\nJapan GOVT BOND Futures\nD"
+    },
+    {
+        "Name": "JN4001!\nJPX400 FUTURES\nD"
+    },
+    {
+        "Name": "JPYINR1!\nJPYINR Futures"
+    },
+    {
+        "Name": "K1!\nTHREE MONTH EURO (EURIBOR) 1YR MID-CURVE\nD"
+    },
+    {
+        "Name": "KAPAS1!\nKapas Futures"
+    },
+    {
+        "Name": "KC1!\nCoffee C Futures\nD"
+    },
+    {
+        "Name": "KE1!\nKC HRW Wheat Futures\nD"
+    },
+    {
+        "Name": "KRW1!\nKorean Won Futures\nD"
+    },
+    {
+        "Name": "KT1!\nCoffee Futures\nD"
+    },
+    {
+        "Name": "KU1!\nKRW/USD (Mini) Futures\nD"
+    },
+    {
+        "Name": "LBR1!\nLumber Futures\nD"
+    },
+    {
+        "Name": "LE1!\nLive Cattle Futures\nD"
+    },
+    {
+        "Name": "LEAD1!\nLead Futures"
+    },
+    {
+        "Name": "LEADMINI1!\nLead Mini Futures"
+    },
+    {
+        "Name": "LH1!\nLME Lithium Hydroxide CIF (Fastmarkets MB) Futures\nD"
+    },
+    {
+        "Name": "LT1!\nASX 20 Year Treasury Bond Futures\nD"
+    },
+    {
+        "Name": "LTC1!\nLithium Carbonate CIF CJK (Fastmarkets) Futures\nD"
+    },
+    {
+        "Name": "LTH1!\nLithium futures\nD"
+    },
+    {
+        "Name": "M2K1!\nMicro E-mini Russell 2000 Index Futures\nD"
+    },
+    {
+        "Name": "M6A1!\nMicro AUD/USD Futures\nD"
+    },
+    {
+        "Name": "M6B1!\nMicro GBP/USD Futures\nD"
+    },
+    {
+        "Name": "M6E1!\nMicro EUR/USD Futures\nD"
+    },
+    {
+        "Name": "MAI.ROS1!\nCorn Futures in Dollars"
+    },
+    {
+        "Name": "MBT1!\nMicro Bitcoin Futures\nD"
+    },
+    {
+        "Name": "MCA1!\nMSCI China A 50 Connect (USD) Index Futures\nD"
+    },
+    {
+        "Name": "MCD1!\nMicro CAD/USD Futures\nD"
+    },
+    {
+        "Name": "MCH1!\nMSCI MEXICO NTR (USD) - STND INDEX FUTURES\nD"
+    },
+    {
+        "Name": "MCL1!\nMicro WTI Crude Oil Futures\nD"
+    },
+    {
+        "Name": "MD1!\nLME Molybdenum Futures\nD"
+    },
+    {
+        "Name": "MENTHAOIL1!\nMentha Oil Futures"
+    },
+    {
+        "Name": "MES1!\nMicro E-mini S&P 500 Index Futures\nD"
+    },
+    {
+        "Name": "MET1!\nMicro Ether Futures\nD"
+    },
+    {
+        "Name": "MGC1!\nMicro Gold Futures\nD"
+    },
+    {
+        "Name": "MHG1!\nMicro Copper Futures\nD"
+    },
+    {
+        "Name": "MHI1!\nMini Hang Seng Index Futures\nD"
+    },
+    {
+        "Name": "MIDCPNIFTY1!\nMIDCPNIFTY FUTURES"
+    },
+    {
+        "Name": "MJY1!\nMicro JPY/USD Futures\nD"
+    },
+    {
+        "Name": "MKP1!\nLiquid NZ Milk Price Futures\nD"
+    },
+    {
+        "Name": "MM1!\nMICEX MINI FUTURES\nD"
+    },
+    {
+        "Name": "MME1!\nMSCI Emerging Markets Index Futures\nD"
+    },
+    {
+        "Name": "MNG1!\nMicro Henry Hub Natural Gas Futures\nD"
+    },
+    {
+        "Name": "MNQ1!\nMicro E-mini Nasdaq-100 Index Futures\nD"
+    },
+    {
+        "Name": "MOTHE1!\nGROWTH 250 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "MSF1!\nMicro CHF/USD Futures\nD"
+    },
+    {
+        "Name": "MT21!\nMethanol T2 FOB Rdam (ICIS) Futures\nD"
+    },
+    {
+        "Name": "MWL1!\nMSCI World Index Futures\nD"
+    },
+    {
+        "Name": "MX1!\nMICEX INDEX FUTURES\nD"
+    },
+    {
+        "Name": "MXF1!\nMINI-TAIEX FUTURES\nD"
+    },
+    {
+        "Name": "MYM1!\nMicro E-mini Dow Jones Industrial Average Index Futures\nD"
+    },
+    {
+        "Name": "NATGASMINI1!\nNatural Gas Mini Futures"
+    },
+    {
+        "Name": "NATURALGAS1!\nNatural Gas Futures"
+    },
+    {
+        "Name": "NCF1!\nglobalCOAL Newcastle Coal Futures\nD"
+    },
+    {
+        "Name": "NG1!\nNatural Gas Futures\nD"
+    },
+    {
+        "Name": "NG1!\nHenry Hub Natural Gas Futures\nD"
+    },
+    {
+        "Name": "NI1!\nNickel Futures\nD"
+    },
+    {
+        "Name": "NI1!\nNickel Futures\nD"
+    },
+    {
+        "Name": "NICKEL1!\nNickel Futures"
+    },
+    {
+        "Name": "NIFTY1!\nS&P CNX NIFTY INDEX FUTURES"
+    },
+    {
+        "Name": "NIFTY1!\nGIFT NIFTY 50 INDEX FUTURES"
+    },
+    {
+        "Name": "NIY1!\nNikkei/Yen Futures\nD"
+    },
+    {
+        "Name": "NK1!\nNIKKEI 225 INDEX Futures\nD"
+    },
+    {
+        "Name": "NK2251!\nNIKKEI 225 FUTURES\nD"
+    },
+    {
+        "Name": "NK225M1!\nNIKKEI 225 MINI FUTURES\nD"
+    },
+    {
+        "Name": "NK225MC1!\nNIKKEI 225 MICRO FUTURES\nD"
+    },
+    {
+        "Name": "NKD1!\nNikkei/USD Futures\nD"
+    },
+    {
+        "Name": "NKVI1!\nNIKKEI 225 VI FUTURES\nD"
+    },
+    {
+        "Name": "NOK1!\nNorwegian Krone Futures\nD"
+    },
+    {
+        "Name": "NQ1!\nE-mini Nasdaq-100 Futures\nD"
+    },
+    {
+        "Name": "O1!\n5YR EURO SWAPNOTE FUTURES\nD"
+    },
+    {
+        "Name": "OBF1!\nOBX INDEX FUTURES\nD"
+    },
+    {
+        "Name": "OJ1!\nFrozen Concentrate Orange Juice A Futures\nD"
+    },
+    {
+        "Name": "ORO1!\nGold Futures"
+    },
+    {
+        "Name": "P1!\n10YR EURO SWAPNOTE FUTURES\nD"
+    },
+    {
+        "Name": "PA1!\nPalladium Futures\nD"
+    },
+    {
+        "Name": "PB1!\nLead Futures\nD"
+    },
+    {
+        "Name": "PB1!\nLead Futures\nD"
+    },
+    {
+        "Name": "PD1!\nPalladium Futures\nD"
+    },
+    {
+        "Name": "PL1!\nPlatinum Futures\nD"
+    },
+    {
+        "Name": "PLN1!\nPolish Zloty Futures\nD"
+    },
+    {
+        "Name": "PRK1!\nPork Cutout Futures\nD"
+    },
+    {
+        "Name": "PT1!\nPlatinum Futures\nD"
+    },
+    {
+        "Name": "QC1!\nE-mini Copper Futures\nD"
+    },
+    {
+        "Name": "QCN1!\nE-mini Nasdaq Composite Futures\nD"
+    },
+    {
+        "Name": "QG1!\nE-mini Natural Gas Futures\nD"
+    },
+    {
+        "Name": "QI1!\nE-mini Silver Futures\nD"
+    },
+    {
+        "Name": "QM1!\nE-mini Crude Oil Futures\nD"
+    },
+    {
+        "Name": "QMW1!\nHARD RED SPRING WHEAT FUTURES\nE"
+    },
+    {
+        "Name": "QO1!\nGold (Mini) Futures\nD"
+    },
+    {
+        "Name": "R1!\nLONG GILT FUTURES\nD"
+    },
+    {
+        "Name": "RB1!\nSteel Rebar Futures\nD"
+    },
+    {
+        "Name": "RB1!\nRBOB Gasoline Futures\nD"
+    },
+    {
+        "Name": "R\nRC1!\nRobusta Coffee Futures\nD"
+    },
+    {
+        "Name": "REIT1!\nTSE REIT INDEX FUTURES\nD"
+    },
+    {
+        "Name": "RF1!\nEuro/Swiss Franc Futures\nD"
+    },
+    {
+        "Name": "RFX201!\nROFEX 20 INDEX FUTURES"
+    },
+    {
+        "Name": "RI1!\nRTS INDEX FUTURES\nD"
+    },
+    {
+        "Name": "RM1!\nRTS INDEX FUTURES (MINI)\nD"
+    },
+    {
+        "Name": "RMB1!\nChinese Renminbi/USD Futures\nD"
+    },
+    {
+        "Name": "RP1!\nEuro/British Pound Futures\nD"
+    },
+    {
+        "Name": "RR1!\nRUBLE OVERNIGHT INDEX AVERAGE FUTURES\nD"
+    },
+    {
+        "Name": "RS11!\nE-mini Russell 1000 Index Futures\nD"
+    },
+    {
+        "Name": "RSI1!\nRepoFunds Rate (Italy) - Three-Month Single Contract Basis Spread Futures\nD"
+    },
+    {
+        "Name": "RTY1!\nE-mini Russell 2000 Index Futures\nD"
+    },
+    {
+        "Name": "RU1!\nNatural Rubber Futures\nD"
+    },
+    {
+        "Name": "RX1!\nDow Jones U.S. Real Estate Index Futures\nD"
+    },
+    {
+        "Name": "RY1!\nEuro/Japanese Yen Futures\nD"
+    },
+    {
+        "Name": "S501!\nSET50 Index Futures\nD"
+    },
+    {
+        "Name": "SA1!\nSugar Futures\nD"
+    },
+    {
+        "Name": "SA31!\nTHREE MONTH SARON\nD"
+    },
+    {
+        "Name": "SB1!\nSugar No. 11 Futures\nD"
+    },
+    {
+        "Name": "SC1!\nLME Steel Scrap CFR Turkey (Platts) Futures\nD"
+    },
+    {
+        "Name": "SEK1!\nSwedish Krona Futures\nD"
+    },
+    {
+        "Name": "SF1!\nSugar No. 16 Futures\nD"
+    },
+    {
+        "Name": "SF11!\nONE MONTH SOFR FUTURES\nD"
+    },
+    {
+        "Name": "SF31!\nTHREE MONTH SOFR FUTURES\nD"
+    },
+    {
+        "Name": "SGP1!\nMSCI Singapore Index Futures\nD"
+    },
+    {
+        "Name": "SI1!\nUS Dollar-Ruble Futures\nD"
+    },
+    {
+        "Name": "SI1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "SIL1!\nMicro Silver Futures\nD"
+    },
+    {
+        "Name": "SILVER1!\nSilver Futures"
+    },
+    {
+        "Name": "SILVERM1!\nSilver Mini Futures"
+    },
+    {
+        "Name": "10Y1!\nMicro 10-Year Yield Futures\nD"
+    },
+    {
+        "Name": "2YY1!\nMicro 2-Year Yield Futures\nD"
+    },
+    {
+        "Name": "30Y1!\nMicro 30-Year Yield Futures\nD"
+    },
+    {
+        "Name": "55U1!\n30-Year UMBS TBA Futures - 5.5% Coupon\nD"
+    },
+    {
+        "Name": "5YY1!\nMicro 5-Year Yield Futures\nD"
+    },
+    {
+        "Name": "60U1!\n30-Year UMBS TBA Futures - 6.0% Coupon\nD"
+    },
+    {
+        "Name": "6A1!\nAustralian Dollar Futures\nD"
+    },
+    {
+        "Name": "6B1!\nBritish Pound Futures\nD"
+    },
+    {
+        "Name": "6C1!\nCanadian Dollar Futures\nD"
+    },
+    {
+        "Name": "6E1!\nEuro FX Futures\nD"
+    },
+    {
+        "Name": "6J1!\nJapanese Yen Futures\nD"
+    },
+    {
+        "Name": "6L1!\nBrazilian Real Futures\nD"
+    },
+    {
+        "Name": "6M1!\nMexican Peso Futures\nD"
+    },
+    {
+        "Name": "6N1!\nNew Zealand Dollar Futures\nD"
+    },
+    {
+        "Name": "6R1!\nRussian Ruble Futures\nD"
+    },
+    {
+        "Name": "6S1!\nSwiss Franc Futures\nD"
+    },
+    {
+        "Name": "6Z1!\nSouth African Rand Futures\nD"
+    },
+    {
+        "Name": "A9N1!\nArgus Propane (Saudi Aramco) Futures\nD"
+    },
+    {
+        "Name": "ACF1!\nSGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures\nD"
+    },
+    {
+        "Name": "AG1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "AH1!\nAluminium High Grade Futures\nD"
+    },
+    {
+        "Name": "AL1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALI1!\nAluminum Futures\nD"
+    },
+    {
+        "Name": "ALUMINI1!\nAluminium Mini Futures"
+    },
+    {
+        "Name": "ALUMINIUM1!\nAluminium Futures"
+    },
+    {
+        "Name": "AP1!\nASX SPI 200 Index Futures\nD"
+    },
+    {
+        "Name": "ATW1!\nAPI2 Rotterdam Coal Futures\nD"
+    },
+    {
+        "Name": "AU1!\nGold Futures\nD"
+    },
+    {
+        "Name": "AW1!\nBloomberg Commodity Index Futures\nD"
+    },
+    {
+        "Name": "AZ11!\nEthanol T2 FOB Rdam Including Duty (Platts) Futures\nD"
+    },
+    {
+        "Name": "BANKNIFTY1!\nBANKNIFTY INDEX FUTURES"
+    },
+    {
+        "Name": "BANKNIFTY1!\nGIFT NIFTY BANK INDEX FUTURES"
+    },
+    {
+        "Name": "BGI1!\nLive Cattle Futures\nD"
+    },
+    {
+        "Name": "BKX1!\nBSE BANKEX"
+    },
+    {
+        "Name": "BLK1!\nBlock Cheese Futures\nD"
+    },
+    {
+        "Name": "BR1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BR1!\nButadiene Rubber Futures\nD"
+    },
+    {
+        "Name": "BRF1!\nBrent Crude Oil Futures\nD"
+    },
+    {
+        "Name": "BRN1!\nBrent Crude Futures\nD"
+    },
+    {
+        "Name": "BSX1!\nSENSEX INDEX FUTURES"
+    },
+    {
+        "Name": "BTC1!\nBitcoin Futures\nD"
+    },
+    {
+        "Name": "BU1!\nBitumen Futures\nD"
+    },
+    {
+        "Name": "BUX1!\nBUX Index Futures\nD"
+    },
+    {
+        "Name": "BZ1!\nBrent Last Day Financial Futures\nD"
+    },
+    {
+        "Name": "C\nC1!\nLondon Cocoa Futures\nD"
+    },
+    {
+        "Name": "C101!\nLONG SWISS CONFEDERATION BOND FUTURES\nD"
+    },
+    {
+        "Name": "CA1!\nGrade A Copper Futures\nD"
+    },
+    {
+        "Name": "CASTOR1!\nCastor Seed Futures"
+    },
+    {
+        "Name": "CB1!\nCash-settled Butter Futures\nD"
+    },
+    {
+        "Name": "CC1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CCM1!\nCash Settled Corn\nD"
+    },
+    {
+        "Name": "CJ1!\nCocoa Futures\nD"
+    },
+    {
+        "Name": "CL1!\nCrude Oil Futures\nD"
+    },
+    {
+        "Name": "CN1!\nFTSE CHINA A50 INDEX Futures\nD"
+    },
+    {
+        "Name": "CNH1!\nStandard-Size USD/Offshore RMB (CNH) Futures\nD"
+    },
+    {
+        "Name": "CO1!\nCobalt Futures\nD"
+    },
+    {
+        "Name": "COB1!\nCobalt Metal (Fastmarkets) Futures\nD"
+    },
+    {
+        "Name": "COCUDAKL1!\nUndecorticated Cotton Seed Oilcake \u2013 Akola Futures"
+    },
+    {
+        "Name": "COPPER1!\nCopper Futures"
+    },
+    {
+        "Name": "COTTONCNDY1!\nCOTTONCNDY Futures"
+    },
+    {
+        "Name": "CPO1!\nUSD Malaysian Crude Palm Oil Calendar Futures\nD"
+    },
+    {
+        "Name": "CR1!\nFutures on CNY/RUB Exchange Rate\nD"
+    },
+    {
+        "Name": "CRUDEOIL1!\nCrude Oil Futures"
+    },
+    {
+        "Name": "CRUDEOILM1!\nCrude Oil Mini Futures"
+    },
+    {
+        "Name": "CS11!\nContainer Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CS61!\nContainer Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures\nD"
+    },
+    {
+        "Name": "CSC1!\nCash-Settled Cheese Futures\nD"
+    },
+    {
+        "Name": "CT1!\nCotton No. 2 Futures\nD"
+    },
+    {
+        "Name": "CU1!\nChicago Ethanol (Platts) Futures\nD"
+    },
+    {
+        "Name": "CU1!\nCopper Cathode Futures\nD"
+    },
+    {
+        "Name": "CUS1!\nUSD/CNH Futures\nD"
+    },
+    {
+        "Name": "D1N1!\nSingapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures\nD"
+    },
+    {
+        "Name": "DAP1!\nID x IPCA Spread Futures\nD"
+    },
+    {
+        "Name": "DAX1!\nDAX Futures\nD"
+    },
+    {
+        "Name": "DC1!\nClass III Milk Futures\nD"
+    },
+    {
+        "Name": "DDI1!\nID x U.S. Dollar Spread Futures\nD"
+    },
+    {
+        "Name": "DEB1!\nGerman Power Baseload Calendar Month Futures\nD"
+    },
+    {
+        "Name": "DHANIYA1!\nCoriander Futures"
+    },
+    {
+        "Name": "DI11!\nOne-day Interbank Deposit Futures\nD"
+    },
+    {
+        "Name": "DJIA1!\nDJIA FUTURES\nD"
+    },
+    {
+        "Name": "DLR1!\nDollar Futures"
+    },
+    {
+        "Name": "DOL1!\nUS Dollar Futures\nD"
+    },
+    {
+        "Name": "DX1!\nUS Dollar Index\u00ae Futures\nD"
+    },
+    {
+        "Name": "E71!\nE-mini Euro FX Futures\nD"
+    },
+    {
+        "Name": "ECF1!\nEUA FUTURES\nE"
+    },
+    {
+        "Name": "ED1!\nEuro-US Dollar Futures\nD"
+    },
+    {
+        "Name": "EMD1!\nE-mini S&P MidCap 400 Futures\nD"
+    },
+    {
+        "Name": "ES1!\nE-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ES1!\nSA Base Load Month Electricity Futures\nD"
+    },
+    {
+        "Name": "ESR1!\nEuro Short-Term Rate (\u20acSTR) Futures\nD"
+    },
+    {
+        "Name": "EST1!\nBTIC E-mini S&P 500 Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nHydrous Ethanol Futures\nD"
+    },
+    {
+        "Name": "ETH1!\nEthereum Futures\nD"
+    },
+    {
+        "Name": "EU1!\nEuro-Ruble Futures\nD"
+    },
+    {
+        "Name": "EURINR1!\nEURINR Futures"
+    },
+    {
+        "Name": "EURTRY1!\nEuro/Turkish Lira Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURO/USD Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures\nD"
+    },
+    {
+        "Name": "EURUSD1!\nEURUSD Futures"
+    },
+    {
+        "Name": "FATX1!\nATX Futures\nD"
+    },
+    {
+        "Name": "FBK21!\nEurex Daily Futures on KOSPI 200 Futures\nD"
+    },
+    {
+        "Name": "FBON1!\nEuro-BONO Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FBTP1!\nLong-Term Euro-BTP Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FCE1!\nCAC 40 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FCEU1!\nEUR/USD Futures\nD"
+    },
+    {
+        "Name": "FCPO1!\nCrude Palm Oil Futures\nD"
+    },
+    {
+        "Name": "FDAX1!\nDAX Futures\nD"
+    },
+    {
+        "Name": "FDXM1!\nMini-DAX Futures\nD"
+    },
+    {
+        "Name": "FDXS1!\nMicro-DAX Futures\nD"
+    },
+    {
+        "Name": "FEF1!\nSGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures,Jul-2024,Composite Futures\nD"
+    },
+    {
+        "Name": "FESB1!\nEURO STOXX Banks Futures\nD"
+    },
+    {
+        "Name": "FESX1!\nEURO STOXX 50 Index Futures\nD"
+    },
+    {
+        "Name": "FFOX1!\nOMXH25 Futures\nD"
+    },
+    {
+        "Name": "FGBL1!\nEuro-Bund Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGBM1!\nEuro-Bobl Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGBS1!\nEuro-Schatz Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGBX1!\nEURO-Buxl Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FGLD1!\nGold Futures\nD"
+    },
+    {
+        "Name": "FINNIFTY1!\nFINNIFTY FUTURES"
+    },
+    {
+        "Name": "FKLI1!\nFTSE Bursa Malaysia KLCI Futures\nD"
+    },
+    {
+        "Name": "FMWO1!\nMSCI World Index Futures\nD"
+    },
+    {
+        "Name": "FNG1!\nMICRO NYSE FANG+\u2122 Index Futures\nD"
+    },
+    {
+        "Name": "FOAT1!\nEuro-OAT Futures-Fixed Income Fut Futures\nD"
+    },
+    {
+        "Name": "FSMI1!\nSMI Futures\nD"
+    },
+    {
+        "Name": "FSOY1!\nDCE Soybean Oil Futures\nD"
+    },
+    {
+        "Name": "FSR31!\n3M SARON Futures\nD"
+    },
+    {
+        "Name": "FTI1!\nAEX INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FTUK1!\nFTSE 100 Index Futures\nD"
+    },
+    {
+        "Name": "FU1!\nFuel Oil Futures\nD"
+    },
+    {
+        "Name": "FUSD1!\nUS Dollar Futures\nD"
+    },
+    {
+        "Name": "FVS1!\nFVS-VSTOXX Futures\nD"
+    },
+    {
+        "Name": "FW201!\nWIG20 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FW401!\nWIG40 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "FXXP1!\nSTOXX Europe 600 Index Futures\nD"
+    },
+    {
+        "Name": "G1!\nSHORT GILT FUTURES\nD"
+    },
+    {
+        "Name": "G101!\nLONG GERMAN BOND FUTURE (BUND)\nD"
+    },
+    {
+        "Name": "G301!\nULTRA LONG GERMAN BOND FUTURE (BUXL)\nD"
+    },
+    {
+        "Name": "GBP1!\n10YR GBP SONIA SWAPNOTE\nD"
+    },
+    {
+        "Name": "GBPINR1!\nGBPINR Futures"
+    },
+    {
+        "Name": "GBPUSD1!\nGBP/USD Futures\nD"
+    },
+    {
+        "Name": "GBPUSD1!\nGBPUSD Futures"
+    },
+    {
+        "Name": "GC1!\nGold Futures\nD"
+    },
+    {
+        "Name": "GD1!\nGold Futures\nD"
+    },
+    {
+        "Name": "GEO1!\nCBL Global Emissions Offset Futures\nD"
+    },
+    {
+        "Name": "GF1!\nFeeder Cattle Futures\nD"
+    },
+    {
+        "Name": "GF101!\n10 Baht Gold Futures\nD"
+    },
+    {
+        "Name": "GNF1!\nNonfat Dry Milk Futures\nD"
+    },
+    {
+        "Name": "GO1!\nGold Online Futures\nD"
+    },
+    {
+        "Name": "GOLD1!\nGold Futures"
+    },
+    {
+        "Name": "GOLDGUINEA1!\nGold Guinea Futures"
+    },
+    {
+        "Name": "GOLDM1!\nGold Mini Futures"
+    },
+    {
+        "Name": "GOLDPETAL1!\nGold Petal Futures"
+    },
+    {
+        "Name": "GUARGUM51!\nGuar Gum Refined Splits Futures"
+    },
+    {
+        "Name": "GUARSEED101!\nGuar Seed Futures"
+    },
+    {
+        "Name": "GWM1!\nUK NBP Natural Gas Futures\nD"
+    },
+    {
+        "Name": "H1!\nMEDIUM GILT FUTURES\nD"
+    },
+    {
+        "Name": "HC1!\nHot Rolled Coils Futures\nD"
+    },
+    {
+        "Name": "HE1!\nLean Hog Futures\nD"
+    },
+    {
+        "Name": "HG1!\nCopper Futures\nD"
+    },
+    {
+        "Name": "HH1!\nNatural Gas (Henry Hub) Last-day Financial Futures\nD"
+    },
+    {
+        "Name": "HHI1!\nHang Seng China Enterprises Index (HSCEI) Futures\nD"
+    },
+    {
+        "Name": "HK1!\nHKD/RUB Exchange rate futures\nD"
+    },
+    {
+        "Name": "HO1!\nNY Harbor ULSD Futures\nD"
+    },
+    {
+        "Name": "HRC1!\nU.S. Midwest Domestic Hot-Rolled Coil Steel (CRU) Index Futures\nD"
+    },
+    {
+        "Name": "HSI1!\nHang Seng Index Futures\nD"
+    },
+    {
+        "Name": "HTI1!\nHang Seng TECH Index Futures\nD"
+    },
+    {
+        "Name": "I051!\nMEDIUM ITALIAN BOND (BTP) FUTURES\nD"
+    },
+    {
+        "Name": "I1!\nTHREE MONTH EURO (EURIBOR) FUTURES\nD"
+    },
+    {
+        "Name": "I101!\nLONG ITALIAN BOND (BTP) FUTURES\nD"
+    },
+    {
+        "Name": "ICF1!\nArabica Coffee Futures\nD"
+    },
+    {
+        "Name": "ILS1!\nIsraeli Shekel Futures\nD"
+    },
+    {
+        "Name": "IMV1!\nS&P Merval Futures\nD"
+    },
+    {
+        "Name": "IND1!\nBovespa Index Futures\nD"
+    },
+    {
+        "Name": "INR1!\nUSD/INR (USD) Futures\nD"
+    },
+    {
+        "Name": "ISP1!\nS&P 500 Index Futures\nD"
+    },
+    {
+        "Name": "IU1!\nINR/USD Futures\nD"
+    },
+    {
+        "Name": "J71!\nE-mini Japanese Yen Futures\nD"
+    },
+    {
+        "Name": "JB1!\nMINI Japan GOVT BOND Futures\nD"
+    },
+    {
+        "Name": "JEERAUNJHA1!\nJeera Futures"
+    },
+    {
+        "Name": "JG1!\nJapan GOVT BOND Futures\nD"
+    },
+    {
+        "Name": "JN4001!\nJPX400 FUTURES\nD"
+    },
+    {
+        "Name": "JPYINR1!\nJPYINR Futures"
+    },
+    {
+        "Name": "K1!\nTHREE MONTH EURO (EURIBOR) 1YR MID-CURVE\nD"
+    },
+    {
+        "Name": "KAPAS1!\nKapas Futures"
+    },
+    {
+        "Name": "KC1!\nCoffee C Futures\nD"
+    },
+    {
+        "Name": "KE1!\nKC HRW Wheat Futures\nD"
+    },
+    {
+        "Name": "KRW1!\nKorean Won Futures\nD"
+    },
+    {
+        "Name": "KT1!\nCoffee Futures\nD"
+    },
+    {
+        "Name": "KU1!\nKRW/USD (Mini) Futures\nD"
+    },
+    {
+        "Name": "LBR1!\nLumber Futures\nD"
+    },
+    {
+        "Name": "LE1!\nLive Cattle Futures\nD"
+    },
+    {
+        "Name": "LEAD1!\nLead Futures"
+    },
+    {
+        "Name": "LEADMINI1!\nLead Mini Futures"
+    },
+    {
+        "Name": "LH1!\nLME Lithium Hydroxide CIF (Fastmarkets MB) Futures\nD"
+    },
+    {
+        "Name": "LT1!\nASX 20 Year Treasury Bond Futures\nD"
+    },
+    {
+        "Name": "LTC1!\nLithium Carbonate CIF CJK (Fastmarkets) Futures\nD"
+    },
+    {
+        "Name": "LTH1!\nLithium futures\nD"
+    },
+    {
+        "Name": "M2K1!\nMicro E-mini Russell 2000 Index Futures\nD"
+    },
+    {
+        "Name": "M6A1!\nMicro AUD/USD Futures\nD"
+    },
+    {
+        "Name": "M6B1!\nMicro GBP/USD Futures\nD"
+    },
+    {
+        "Name": "M6E1!\nMicro EUR/USD Futures\nD"
+    },
+    {
+        "Name": "MAI.ROS1!\nCorn Futures in Dollars"
+    },
+    {
+        "Name": "MBT1!\nMicro Bitcoin Futures\nD"
+    },
+    {
+        "Name": "MCA1!\nMSCI China A 50 Connect (USD) Index Futures\nD"
+    },
+    {
+        "Name": "MCD1!\nMicro CAD/USD Futures\nD"
+    },
+    {
+        "Name": "MCH1!\nMSCI MEXICO NTR (USD) - STND INDEX FUTURES\nD"
+    },
+    {
+        "Name": "MCL1!\nMicro WTI Crude Oil Futures\nD"
+    },
+    {
+        "Name": "MD1!\nLME Molybdenum Futures\nD"
+    },
+    {
+        "Name": "MENTHAOIL1!\nMentha Oil Futures"
+    },
+    {
+        "Name": "MES1!\nMicro E-mini S&P 500 Index Futures\nD"
+    },
+    {
+        "Name": "MET1!\nMicro Ether Futures\nD"
+    },
+    {
+        "Name": "MGC1!\nMicro Gold Futures\nD"
+    },
+    {
+        "Name": "MHG1!\nMicro Copper Futures\nD"
+    },
+    {
+        "Name": "MHI1!\nMini Hang Seng Index Futures\nD"
+    },
+    {
+        "Name": "MIDCPNIFTY1!\nMIDCPNIFTY FUTURES"
+    },
+    {
+        "Name": "MJY1!\nMicro JPY/USD Futures\nD"
+    },
+    {
+        "Name": "MKP1!\nLiquid NZ Milk Price Futures\nD"
+    },
+    {
+        "Name": "MM1!\nMICEX MINI FUTURES\nD"
+    },
+    {
+        "Name": "MME1!\nMSCI Emerging Markets Index Futures\nD"
+    },
+    {
+        "Name": "MNG1!\nMicro Henry Hub Natural Gas Futures\nD"
+    },
+    {
+        "Name": "MNQ1!\nMicro E-mini Nasdaq-100 Index Futures\nD"
+    },
+    {
+        "Name": "MOTHE1!\nGROWTH 250 INDEX FUTURES\nD"
+    },
+    {
+        "Name": "MSF1!\nMicro CHF/USD Futures\nD"
+    },
+    {
+        "Name": "MT21!\nMethanol T2 FOB Rdam (ICIS) Futures\nD"
+    },
+    {
+        "Name": "MWL1!\nMSCI World Index Futures\nD"
+    },
+    {
+        "Name": "MX1!\nMICEX INDEX FUTURES\nD"
+    },
+    {
+        "Name": "MXF1!\nMINI-TAIEX FUTURES\nD"
+    },
+    {
+        "Name": "MYM1!\nMicro E-mini Dow Jones Industrial Average Index Futures\nD"
+    },
+    {
+        "Name": "NATGASMINI1!\nNatural Gas Mini Futures"
+    },
+    {
+        "Name": "NATURALGAS1!\nNatural Gas Futures"
+    },
+    {
+        "Name": "NCF1!\nglobalCOAL Newcastle Coal Futures\nD"
+    },
+    {
+        "Name": "NG1!\nHenry Hub Natural Gas Futures\nD"
+    },
+    {
+        "Name": "NG1!\nNatural Gas Futures\nD"
+    },
+    {
+        "Name": "NI1!\nNickel Futures\nD"
+    },
+    {
+        "Name": "NI1!\nNickel Futures\nD"
+    },
+    {
+        "Name": "NICKEL1!\nNickel Futures"
+    },
+    {
+        "Name": "NIFTY1!\nGIFT NIFTY 50 INDEX FUTURES"
+    },
+    {
+        "Name": "NIFTY1!\nS&P CNX NIFTY INDEX FUTURES"
+    },
+    {
+        "Name": "NIY1!\nNikkei/Yen Futures\nD"
+    },
+    {
+        "Name": "NK1!\nNIKKEI 225 INDEX Futures\nD"
+    },
+    {
+        "Name": "NK2251!\nNIKKEI 225 FUTURES\nD"
+    },
+    {
+        "Name": "NK225M1!\nNIKKEI 225 MINI FUTURES\nD"
+    },
+    {
+        "Name": "NK225MC1!\nNIKKEI 225 MICRO FUTURES\nD"
+    },
+    {
+        "Name": "NKD1!\nNikkei/USD Futures\nD"
+    },
+    {
+        "Name": "NKVI1!\nNIKKEI 225 VI FUTURES\nD"
+    },
+    {
+        "Name": "NOK1!\nNorwegian Krone Futures\nD"
+    },
+    {
+        "Name": "NQ1!\nE-mini Nasdaq-100 Futures\nD"
+    },
+    {
+        "Name": "O1!\n5YR EURO SWAPNOTE FUTURES\nD"
+    },
+    {
+        "Name": "OBF1!\nOBX INDEX FUTURES\nD"
+    },
+    {
+        "Name": "OJ1!\nFrozen Concentrate Orange Juice A Futures\nD"
+    },
+    {
+        "Name": "ORO1!\nGold Futures"
+    },
+    {
+        "Name": "P1!\n10YR EURO SWAPNOTE FUTURES\nD"
+    },
+    {
+        "Name": "PA1!\nPalladium Futures\nD"
+    },
+    {
+        "Name": "PB1!\nLead Futures\nD"
+    },
+    {
+        "Name": "PB1!\nLead Futures\nD"
+    },
+    {
+        "Name": "PD1!\nPalladium Futures\nD"
+    },
+    {
+        "Name": "PL1!\nPlatinum Futures\nD"
+    },
+    {
+        "Name": "PLN1!\nPolish Zloty Futures\nD"
+    },
+    {
+        "Name": "PRK1!\nPork Cutout Futures\nD"
+    },
+    {
+        "Name": "PT1!\nPlatinum Futures\nD"
+    },
+    {
+        "Name": "QC1!\nE-mini Copper Futures\nD"
+    },
+    {
+        "Name": "QCN1!\nE-mini Nasdaq Composite Futures\nD"
+    },
+    {
+        "Name": "QG1!\nE-mini Natural Gas Futures\nD"
+    },
+    {
+        "Name": "QI1!\nE-mini Silver Futures\nD"
+    },
+    {
+        "Name": "QM1!\nE-mini Crude Oil Futures\nD"
+    },
+    {
+        "Name": "QMW1!\nHARD RED SPRING WHEAT FUTURES\nE"
+    },
+    {
+        "Name": "QO1!\nGold (Mini) Futures\nD"
+    },
+    {
+        "Name": "R1!\nLONG GILT FUTURES\nD"
+    },
+    {
+        "Name": "RB1!\nSteel Rebar Futures\nD"
+    },
+    {
+        "Name": "RB1!\nRBOB Gasoline Futures\nD"
+    },
+    {
+        "Name": "R\nRC1!\nRobusta Coffee Futures\nD"
+    },
+    {
+        "Name": "REIT1!\nTSE REIT INDEX FUTURES\nD"
+    },
+    {
+        "Name": "RF1!\nEuro/Swiss Franc Futures\nD"
+    },
+    {
+        "Name": "RFX201!\nROFEX 20 INDEX FUTURES"
+    },
+    {
+        "Name": "RI1!\nRTS INDEX FUTURES\nD"
+    },
+    {
+        "Name": "RM1!\nRTS INDEX FUTURES (MINI)\nD"
+    },
+    {
+        "Name": "RMB1!\nChinese Renminbi/USD Futures\nD"
+    },
+    {
+        "Name": "RP1!\nEuro/British Pound Futures\nD"
+    },
+    {
+        "Name": "RR1!\nRUBLE OVERNIGHT INDEX AVERAGE FUTURES\nD"
+    },
+    {
+        "Name": "RS11!\nE-mini Russell 1000 Index Futures\nD"
+    },
+    {
+        "Name": "RSI1!\nRepoFunds Rate (Italy) - Three-Month Single Contract Basis Spread Futures\nD"
+    },
+    {
+        "Name": "RTY1!\nE-mini Russell 2000 Index Futures\nD"
+    },
+    {
+        "Name": "RU1!\nNatural Rubber Futures\nD"
+    },
+    {
+        "Name": "RX1!\nDow Jones U.S. Real Estate Index Futures\nD"
+    },
+    {
+        "Name": "RY1!\nEuro/Japanese Yen Futures\nD"
+    },
+    {
+        "Name": "S501!\nSET50 Index Futures\nD"
+    },
+    {
+        "Name": "SA1!\nSugar Futures\nD"
+    },
+    {
+        "Name": "SA31!\nTHREE MONTH SARON\nD"
+    },
+    {
+        "Name": "SB1!\nSugar No. 11 Futures\nD"
+    },
+    {
+        "Name": "SC1!\nLME Steel Scrap CFR Turkey (Platts) Futures\nD"
+    },
+    {
+        "Name": "SEK1!\nSwedish Krona Futures\nD"
+    },
+    {
+        "Name": "SF1!\nSugar No. 16 Futures\nD"
+    },
+    {
+        "Name": "SF11!\nONE MONTH SOFR FUTURES\nD"
+    },
+    {
+        "Name": "SF31!\nTHREE MONTH SOFR FUTURES\nD"
+    },
+    {
+        "Name": "SGP1!\nMSCI Singapore Index Futures\nD"
+    },
+    {
+        "Name": "SI1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "SI1!\nUS Dollar-Ruble Futures\nD"
+    },
+    {
+        "Name": "SIL1!\nMicro Silver Futures\nD"
+    },
+    {
+        "Name": "SILVER1!\nSilver Futures"
+    },
+    {
+        "Name": "SILVERM1!\nSilver Mini Futures"
+    },
+    {
+        "Name": "SILVERMIC1!\nSilver Micro Futures"
+    },
+    {
+        "Name": "SIR1!\nIndian Rupee/USD Futures\nD"
+    },
+    {
+        "Name": "SJC1!\nMini-Sized Soybean CME\nD"
+    },
+    {
+        "Name": "SMC1!\nE-mini S&P 600 SmallCap Futures\nD"
+    },
+    {
+        "Name": "SMP1!\nSkim Milk Powder Futures\nD"
+    },
+    {
+        "Name": "SN1!\nTin Futures\nD"
+    },
+    {
+        "Name": "SN1!\nTin Futures\nD"
+    },
+    {
+        "Name": "SO31!\nTHREE MONTH SONIA\nD"
+    },
+    {
+        "Name": "SOJ.ROS1!\nRosario Soybean Futures in Dollars"
+    },
+    {
+        "Name": "SOX1!\nE-mini PHLX Semiconductor Sector Futures\nD"
+    },
+    {
+        "Name": "SOY.CME1!\nChicago Soybean Futures"
+    },
+    {
+        "Name": "SOY1!\nFOB Santos (Platts) Soybean Futures\nD"
+    },
+    {
+        "Name": "SP1!\nBleached Softwood Kraft Pulp Futures\nD"
+    },
+    {
+        "Name": "SR11!\nOne-Month SOFR Futures\nD"
+    },
+    {
+        "Name": "SR31!\nICE Three-Month SOFR Index Futures\nD"
+    },
+    {
+        "Name": "SR31!\nThree-Month SOFR Futures\nD"
+    },
+    {
+        "Name": "SS1!\nStainless Steel Futures\nD"
+    },
+    {
+        "Name": "ST1!\nSTRAITS TIMES INDEX Futures\nD"
+    },
+    {
+        "Name": "STEEL1!\nSteel Long Futures"
+    },
+    {
+        "Name": "SUNOIL1!\nCrude Sunflower Oil Futures"
+    },
+    {
+        "Name": "SV1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "SVF1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "SX501!\nSENSEX50 FUTURES"
+    },
+    {
+        "Name": "T101!\nTen-Year U.S. Treasury Note Futures\nD"
+    },
+    {
+        "Name": "TCL1!\nDubai Crude Oil Futures\nD"
+    },
+    {
+        "Name": "TF1!\nSGX SICOM TSR20 Futures,Aug-2024,Composite Futures\nD"
+    },
+    {
+        "Name": "TFM1!\nDUTCH TTF GAS BASE LOAD FUTURES\nE"
+    },
+    {
+        "Name": "TFN1!\nICE Futures Europe Dutch TTF Natural Gas Futures\nD"
+    },
+    {
+        "Name": "TFU1!\nDutch TTF Natural Gas Last Day Financial Futures (USD/MMBTU)\nD"
+    },
+    {
+        "Name": "TGCN1!\nCorn Futures\nD"
+    },
+    {
+        "Name": "TGD1!\nGold Futures\nD"
+    },
+    {
+        "Name": "TGM1!\nGold mini Futures\nD"
+    },
+    {
+        "Name": "THO1!\nKerosene Futures\nD"
+    },
+    {
+        "Name": "TIO1!\nIron Ore 62% Fe, CFR China (TSI) Futures\nD"
+    },
+    {
+        "Name": "TJF1!\nTOPIX FUTURES\nD"
+    },
+    {
+        "Name": "TMCFGRNZM1!\nTurmeric Futures"
+    },
+    {
+        "Name": "TN1!\nUltra 10-Year U.S. Treasury Note Futures\nD"
+    },
+    {
+        "Name": "TOPIX1!\nTOPIX FUTURES\nD"
+    },
+    {
+        "Name": "TOPIXM1!\nTOPIX MINI FUTURES\nD"
+    },
+    {
+        "Name": "TPL1!\nPlatinum Futures\nD"
+    },
+    {
+        "Name": "TPLM1!\nPlatinum mini Futures\nD"
+    },
+    {
+        "Name": "TRB1!\nRSS3 Rubber Futures\nD"
+    },
+    {
+        "Name": "TRL1!\nTurkish Lira/US Dollar (TRY/USD) Future\nD"
+    },
+    {
+        "Name": "TSI1!\nSilver Futures\nD"
+    },
+    {
+        "Name": "TT1!\nCotton Futures\nD"
+    },
+    {
+        "Name": "TTF1!\nDutch TTF Natural Gas Calendar Month Futures\nD"
+    },
+    {
+        "Name": "TWE1!\n20-Year U.S. Treasury Bond Futures\nD"
+    },
+    {
+        "Name": "TWN1!\nFTSE Taiwan Index Futures\nD"
+    },
+    {
+        "Name": "TXF1!\nTAIEX FUTURES\nD"
+    },
+    {
+        "Name": "TY1!\nTRY/RUB exchange rate futures\nD"
+    },
+    {
+        "Name": "U1!\nULTRA LONG GILT FUTURES\nD"
+    },
+    {
+        "Name": "UB1!\nUltra U.S. Treasury Bond Futures\nD"
+    },
+    {
+        "Name": "UBL1!\nUK Base Electricity Futures (Gregorian)\nD"
+    },
+    {
+        "Name": "UC1!\nUSD/CNY Exchange Rate Cash-Settled Futures\nD"
+    },
+    {
+        "Name": "UC1!\nUSD/CNH (Full-Sized) Futures\nD"
+    },
+    {
+        "Name": "UCR1!\nUCOME Biodiesel (RED Compliant) FOB ARA (Argus) Futures\nD"
+    },
+    {
+        "Name": "UDF1!\nDJIA FUTURES\nD"
+    },
+    {
+        "Name": "UFB1!\nUrea (Granular) CFR Brazil Futures\nD"
+    },
+    {
+        "Name": "UFE1!\nUrea (Granular) FOB Egypt Futures\nD"
+    },
+    {
+        "Name": "UHO1!\nHeating Oil/Low Sulphur Gasoil Futures Spread\nD"
+    },
+    {
+        "Name": "UHU1!\nRBOB Gasoline Average Price Futures\nD"
+    },
+    {
+        "Name": "ULS1!\nLow Sulphur Gasoil Futures\nD"
+    },
+    {
+        "Name": "UME1!\nUrea (Granular) FOB Middle East Futures\nD"
+    },
+    {
+        "Name": "UNF1!\nNASDAQ-100 FUTURES\nD"
+    },
+    {
+        "Name": "UPL1!\nUK Peak Electricity Future (Gregorian)\nD"
+    },
+    {
+        "Name": "US31!\n30YR SOFR SWAPNOTE FUTURES\nD"
+    },
+    {
+        "Name": "USD1!\nUS Dollar Futures\nD"
+    },
+    {
+        "Name": "USDINR1!\nUSDINR Futures"
+    },
+    {
+        "Name": "USDJPY1!\nUSDJPY Futures\nD"
+    },
+    {
+        "Name": "USDJPY1!\nUSDJPY Futures"
+    },
+    {
+        "Name": "USDTRY1!\nUSD/Turkish Lira Futures\nD"
+    },
+    {
+        "Name": "USO1!\n5YR SOFR SWAPNOTE FUTURES\nD"
+    },
+    {
+        "Name": "USP1!\n10YR SOFR SWAPNOTE FUTURES\nD"
+    },
+    {
+        "Name": "USW1!\n2YR SOFR SWAPNOTE FUTURES\nD"
+    },
+    {
+        "Name": "UX1!\nUxC Uranium U3O8 Futures\nD"
+    },
+    {
+        "Name": "VN301!\nVN30 Index Futures\nD"
+    },
+    {
+        "Name": "VX1!\nCBOE VOLATILITY INDEX (VIX) FUTURES\nD"
+    },
+    {
+        "Name": "VXM1!\nMINI CBOE VOLATILITY INDEX (VXM) FUTURES\nD"
+    },
+    {
+        "Name": "W\nW1!\nWhite Sugar Futures\nD"
+    },
+    {
+        "Name": "WBS1!\nWTI Crude Futures\nD"
+    },
+    {
+        "Name": "WDO1!\nMini U.S. Dollar Futures\nD"
+    },
+    {
+        "Name": "WHT1!\nUK Feed Wheat Futures\nD"
+    },
+    {
+        "Name": "WIN1!\nBovespa Index-Mini Futures\nD"
+    },
+    {
+        "Name": "WMP1!\nWhole Milk Powder Futures\nD"
+    },
+    {
+        "Name": "WSP1!\nMicro S&P 500 Futures\nD"
+    },
+    {
+        "Name": "WTI1!\nOil Futures"
+    },
+    {
+        "Name": "WTI1!\nWTI Midland (Argus) Trade Month Futures\nD"
+    },
+    {
+        "Name": "XAGUSD1!\nSilver USD per ounce Futures\nD"
+    },
+    {
+        "Name": "XAU1!\nE-mini Utilities Select Sector Futures\nD"
+    },
+    {
+        "Name": "XAUTRY1!\nGold TRY per gram Futures\nD"
+    },
+    {
+        "Name": "XAUUSD1!\nGold USD per ounce Futures\nD"
+    },
+    {
+        "Name": "XC1!\nCorn Mini Futures\nD"
+    },
+    {
+        "Name": "XK1!\nSoybean Mini Futures\nD"
+    },
+    {
+        "Name": "XLBNKD1!\nBIST LIQUID BANKS FUTURES\nD"
+    },
+    {
+        "Name": "XPDUSD1!\nPalladium USD per ounce Futures\nD"
+    },
+    {
+        "Name": "XPTUSD1!\nPlatinum USD per ounce Futures\nD"
+    },
+    {
+        "Name": "XT1!\nASX 10 Year Treasury Bond Futures\nD"
+    },
+    {
+        "Name": "XU030D1!\nBIST 30 FUTURES\nD"
+    },
+    {
+        "Name": "XW1!\nWheat Mini Futures\nD"
+    },
+    {
+        "Name": "Y21!\nFTSE 250 - STND INDEX FUTURES\nD"
+    }
+]

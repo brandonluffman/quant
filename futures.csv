@@ -1,0 +1,1101 @@
+ticker,name
+10Y1!,Micro 10-Year Yield Futures
+2YY1!,Micro 2-Year Yield Futures
+30Y1!,Micro 30-Year Yield Futures
+55U1!,30-Year UMBS TBA Futures - 5.5% Coupon
+5YY1!,Micro 5-Year Yield Futures
+60U1!,30-Year UMBS TBA Futures - 6.0% Coupon
+6A1!,Australian Dollar Futures
+6B1!,British Pound Futures
+6C1!,Canadian Dollar Futures
+6E1!,Euro FX Futures
+6J1!,Japanese Yen Futures
+6L1!,Brazilian Real Futures
+6M1!,Mexican Peso Futures
+6N1!,New Zealand Dollar Futures
+6R1!,Russian Ruble Futures
+6S1!,Swiss Franc Futures
+6Z1!,South African Rand Futures
+A9N1!,Argus Propane (Saudi Aramco) Futures
+ACF1!,"SGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures"
+AG1!,Silver Futures
+AH1!,Aluminium High Grade Futures
+AL1!,Aluminum Futures
+ALI1!,Aluminum Futures
+ALUMINI1!,Aluminium Mini Futures
+ALUMINIUM1!,Aluminium Futures
+AP1!,ASX SPI 200 Index Futures
+ATW1!,API2 Rotterdam Coal Futures
+AU1!,Gold Futures
+AW1!,Bloomberg Commodity Index Futures
+AZ11!,Ethanol T2 FOB Rdam Including Duty (Platts) Futures
+BANKNIFTY1!,BANKNIFTY INDEX FUTURES
+BANKNIFTY1!,GIFT NIFTY BANK INDEX FUTURES
+BGI1!,Live Cattle Futures
+BKX1!,BSE BANKEX
+BLK1!,Block Cheese Futures
+BR1!,Brent Crude Oil Futures
+BR1!,Butadiene Rubber Futures
+BRF1!,Brent Crude Oil Futures
+BRN1!,Brent Crude Futures
+BSX1!,SENSEX INDEX FUTURES
+BTC1!,Bitcoin Futures
+BU1!,Bitumen Futures
+BUX1!,BUX Index Futures
+BZ1!,Brent Last Day Financial Futures
+C,C1!
+C101!,LONG SWISS CONFEDERATION BOND FUTURES
+CA1!,Grade A Copper Futures
+CASTOR1!,Castor Seed Futures
+CB1!,Cash-settled Butter Futures
+CC1!,Cocoa Futures
+CCM1!,Cash Settled Corn
+CJ1!,Cocoa Futures
+CL1!,Crude Oil Futures
+CN1!,FTSE CHINA A50 INDEX Futures
+CNH1!,Standard-Size USD/Offshore RMB (CNH) Futures
+CO1!,Cobalt Futures
+COB1!,Cobalt Metal (Fastmarkets) Futures
+COCUDAKL1!,Undecorticated Cotton Seed Oilcake – Akola Futures
+COPPER1!,Copper Futures
+COTTONCNDY1!,COTTONCNDY Futures
+CPO1!,USD Malaysian Crude Palm Oil Calendar Futures
+CR1!,Futures on CNY/RUB Exchange Rate
+CRUDEOIL1!,Crude Oil Futures
+CRUDEOILM1!,Crude Oil Mini Futures
+CS11!,Container Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures
+CS61!,Container Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures
+CSC1!,Cash-Settled Cheese Futures
+CT1!,Cotton No. 2 Futures
+CU1!,Chicago Ethanol (Platts) Futures
+CU1!,Copper Cathode Futures
+CUS1!,USD/CNH Futures
+D1N1!,Singapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures
+DAP1!,ID x IPCA Spread Futures
+DAX1!,DAX Futures
+DC1!,Class III Milk Futures
+DDI1!,ID x U.S. Dollar Spread Futures
+DEB1!,German Power Baseload Calendar Month Futures
+DHANIYA1!,Coriander Futures
+DI11!,One-day Interbank Deposit Futures
+DJIA1!,DJIA FUTURES
+DLR1!,Dollar Futures
+DOL1!,US Dollar Futures
+DX1!,US Dollar Index® Futures
+E71!,E-mini Euro FX Futures
+ECF1!,EUA FUTURES
+ED1!,Euro-US Dollar Futures
+EMD1!,E-mini S&P MidCap 400 Futures
+ES1!,SA Base Load Month Electricity Futures
+ES1!,E-mini S&P 500 Futures
+ESR1!,Euro Short-Term Rate (€STR) Futures
+EST1!,BTIC E-mini S&P 500 Futures
+ETH1!,Ethereum Futures
+ETH1!,Hydrous Ethanol Futures
+EU1!,Euro-Ruble Futures
+EURINR1!,EURINR Futures
+EURTRY1!,Euro/Turkish Lira Futures
+EURUSD1!,EURO/USD Futures
+EURUSD1!,EURUSD Futures
+EURUSD1!,EURUSD Futures
+FATX1!,ATX Futures
+10Y1!,Micro 10-Year Yield Futures
+2YY1!,Micro 2-Year Yield Futures
+30Y1!,Micro 30-Year Yield Futures
+55U1!,30-Year UMBS TBA Futures - 5.5% Coupon
+5YY1!,Micro 5-Year Yield Futures
+60U1!,30-Year UMBS TBA Futures - 6.0% Coupon
+6A1!,Australian Dollar Futures
+6B1!,British Pound Futures
+6C1!,Canadian Dollar Futures
+6E1!,Euro FX Futures
+6J1!,Japanese Yen Futures
+6L1!,Brazilian Real Futures
+6M1!,Mexican Peso Futures
+6N1!,New Zealand Dollar Futures
+6R1!,Russian Ruble Futures
+6S1!,Swiss Franc Futures
+6Z1!,South African Rand Futures
+A9N1!,Argus Propane (Saudi Aramco) Futures
+ACF1!,"SGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures"
+AG1!,Silver Futures
+AH1!,Aluminium High Grade Futures
+AL1!,Aluminum Futures
+ALI1!,Aluminum Futures
+ALUMINI1!,Aluminium Mini Futures
+ALUMINIUM1!,Aluminium Futures
+AP1!,ASX SPI 200 Index Futures
+ATW1!,API2 Rotterdam Coal Futures
+AU1!,Gold Futures
+AW1!,Bloomberg Commodity Index Futures
+AZ11!,Ethanol T2 FOB Rdam Including Duty (Platts) Futures
+BANKNIFTY1!,BANKNIFTY INDEX FUTURES
+BANKNIFTY1!,GIFT NIFTY BANK INDEX FUTURES
+BGI1!,Live Cattle Futures
+BKX1!,BSE BANKEX
+BLK1!,Block Cheese Futures
+BR1!,Brent Crude Oil Futures
+BR1!,Butadiene Rubber Futures
+BRF1!,Brent Crude Oil Futures
+BRN1!,Brent Crude Futures
+BSX1!,SENSEX INDEX FUTURES
+BTC1!,Bitcoin Futures
+BU1!,Bitumen Futures
+BUX1!,BUX Index Futures
+BZ1!,Brent Last Day Financial Futures
+C,C1!
+C101!,LONG SWISS CONFEDERATION BOND FUTURES
+CA1!,Grade A Copper Futures
+CASTOR1!,Castor Seed Futures
+CB1!,Cash-settled Butter Futures
+CC1!,Cocoa Futures
+CCM1!,Cash Settled Corn
+CJ1!,Cocoa Futures
+CL1!,Crude Oil Futures
+CN1!,FTSE CHINA A50 INDEX Futures
+CNH1!,Standard-Size USD/Offshore RMB (CNH) Futures
+CO1!,Cobalt Futures
+COB1!,Cobalt Metal (Fastmarkets) Futures
+COCUDAKL1!,Undecorticated Cotton Seed Oilcake – Akola Futures
+COPPER1!,Copper Futures
+COTTONCNDY1!,COTTONCNDY Futures
+CPO1!,USD Malaysian Crude Palm Oil Calendar Futures
+CR1!,Futures on CNY/RUB Exchange Rate
+CRUDEOIL1!,Crude Oil Futures
+CRUDEOILM1!,Crude Oil Mini Futures
+CS11!,Container Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures
+CS61!,Container Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures
+CSC1!,Cash-Settled Cheese Futures
+CT1!,Cotton No. 2 Futures
+CU1!,Chicago Ethanol (Platts) Futures
+CU1!,Copper Cathode Futures
+CUS1!,USD/CNH Futures
+D1N1!,Singapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures
+DAP1!,ID x IPCA Spread Futures
+DAX1!,DAX Futures
+DC1!,Class III Milk Futures
+DDI1!,ID x U.S. Dollar Spread Futures
+DEB1!,German Power Baseload Calendar Month Futures
+DHANIYA1!,Coriander Futures
+DI11!,One-day Interbank Deposit Futures
+DJIA1!,DJIA FUTURES
+DLR1!,Dollar Futures
+DOL1!,US Dollar Futures
+DX1!,US Dollar Index® Futures
+E71!,E-mini Euro FX Futures
+ECF1!,EUA FUTURES
+ED1!,Euro-US Dollar Futures
+EMD1!,E-mini S&P MidCap 400 Futures
+ES1!,SA Base Load Month Electricity Futures
+ES1!,E-mini S&P 500 Futures
+ESR1!,Euro Short-Term Rate (€STR) Futures
+EST1!,BTIC E-mini S&P 500 Futures
+ETH1!,Ethereum Futures
+ETH1!,Hydrous Ethanol Futures
+EU1!,Euro-Ruble Futures
+EURINR1!,EURINR Futures
+EURTRY1!,Euro/Turkish Lira Futures
+EURUSD1!,EURO/USD Futures
+EURUSD1!,EURUSD Futures
+EURUSD1!,EURUSD Futures
+FATX1!,ATX Futures
+10Y1!,Micro 10-Year Yield Futures
+2YY1!,Micro 2-Year Yield Futures
+30Y1!,Micro 30-Year Yield Futures
+55U1!,30-Year UMBS TBA Futures - 5.5% Coupon
+5YY1!,Micro 5-Year Yield Futures
+60U1!,30-Year UMBS TBA Futures - 6.0% Coupon
+6A1!,Australian Dollar Futures
+6B1!,British Pound Futures
+6C1!,Canadian Dollar Futures
+6E1!,Euro FX Futures
+6J1!,Japanese Yen Futures
+6L1!,Brazilian Real Futures
+6M1!,Mexican Peso Futures
+6N1!,New Zealand Dollar Futures
+6R1!,Russian Ruble Futures
+6S1!,Swiss Franc Futures
+6Z1!,South African Rand Futures
+A9N1!,Argus Propane (Saudi Aramco) Futures
+ACF1!,"SGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures"
+AG1!,Silver Futures
+AH1!,Aluminium High Grade Futures
+AL1!,Aluminum Futures
+ALI1!,Aluminum Futures
+ALUMINI1!,Aluminium Mini Futures
+ALUMINIUM1!,Aluminium Futures
+AP1!,ASX SPI 200 Index Futures
+ATW1!,API2 Rotterdam Coal Futures
+AU1!,Gold Futures
+AW1!,Bloomberg Commodity Index Futures
+AZ11!,Ethanol T2 FOB Rdam Including Duty (Platts) Futures
+BANKNIFTY1!,BANKNIFTY INDEX FUTURES
+BANKNIFTY1!,GIFT NIFTY BANK INDEX FUTURES
+BGI1!,Live Cattle Futures
+BKX1!,BSE BANKEX
+BLK1!,Block Cheese Futures
+BR1!,Butadiene Rubber Futures
+BR1!,Brent Crude Oil Futures
+BRF1!,Brent Crude Oil Futures
+BRN1!,Brent Crude Futures
+BSX1!,SENSEX INDEX FUTURES
+BTC1!,Bitcoin Futures
+BU1!,Bitumen Futures
+BUX1!,BUX Index Futures
+BZ1!,Brent Last Day Financial Futures
+C,C1!
+C101!,LONG SWISS CONFEDERATION BOND FUTURES
+CA1!,Grade A Copper Futures
+CASTOR1!,Castor Seed Futures
+CB1!,Cash-settled Butter Futures
+CC1!,Cocoa Futures
+CCM1!,Cash Settled Corn
+CJ1!,Cocoa Futures
+CL1!,Crude Oil Futures
+CN1!,FTSE CHINA A50 INDEX Futures
+CNH1!,Standard-Size USD/Offshore RMB (CNH) Futures
+CO1!,Cobalt Futures
+COB1!,Cobalt Metal (Fastmarkets) Futures
+COCUDAKL1!,Undecorticated Cotton Seed Oilcake – Akola Futures
+COPPER1!,Copper Futures
+COTTONCNDY1!,COTTONCNDY Futures
+CPO1!,USD Malaysian Crude Palm Oil Calendar Futures
+CR1!,Futures on CNY/RUB Exchange Rate
+CRUDEOIL1!,Crude Oil Futures
+CRUDEOILM1!,Crude Oil Mini Futures
+CS11!,Container Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures
+CS61!,Container Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures
+CSC1!,Cash-Settled Cheese Futures
+CT1!,Cotton No. 2 Futures
+CU1!,Chicago Ethanol (Platts) Futures
+CU1!,Copper Cathode Futures
+CUS1!,USD/CNH Futures
+D1N1!,Singapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures
+DAP1!,ID x IPCA Spread Futures
+DAX1!,DAX Futures
+DC1!,Class III Milk Futures
+DDI1!,ID x U.S. Dollar Spread Futures
+DEB1!,German Power Baseload Calendar Month Futures
+DHANIYA1!,Coriander Futures
+DI11!,One-day Interbank Deposit Futures
+DJIA1!,DJIA FUTURES
+DLR1!,Dollar Futures
+DOL1!,US Dollar Futures
+DX1!,US Dollar Index® Futures
+E71!,E-mini Euro FX Futures
+ECF1!,EUA FUTURES
+ED1!,Euro-US Dollar Futures
+EMD1!,E-mini S&P MidCap 400 Futures
+ES1!,E-mini S&P 500 Futures
+ES1!,SA Base Load Month Electricity Futures
+ESR1!,Euro Short-Term Rate (€STR) Futures
+EST1!,BTIC E-mini S&P 500 Futures
+ETH1!,Hydrous Ethanol Futures
+ETH1!,Ethereum Futures
+EU1!,Euro-Ruble Futures
+EURINR1!,EURINR Futures
+EURTRY1!,Euro/Turkish Lira Futures
+EURUSD1!,EURO/USD Futures
+EURUSD1!,EURUSD Futures
+EURUSD1!,EURUSD Futures
+FATX1!,ATX Futures
+FBK21!,Eurex Daily Futures on KOSPI 200 Futures
+FBON1!,Euro-BONO Futures-Fixed Income Fut Futures
+FBTP1!,Long-Term Euro-BTP Futures-Fixed Income Fut Futures
+FCE1!,CAC 40 INDEX FUTURES
+FCEU1!,EUR/USD Futures
+FCPO1!,Crude Palm Oil Futures
+FDAX1!,DAX Futures
+FDXM1!,Mini-DAX Futures
+FDXS1!,Micro-DAX Futures
+FEF1!,"SGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures,Jul-2024,Composite Futures"
+FESB1!,EURO STOXX Banks Futures
+FESX1!,EURO STOXX 50 Index Futures
+FFOX1!,OMXH25 Futures
+FGBL1!,Euro-Bund Futures-Fixed Income Fut Futures
+FGBM1!,Euro-Bobl Futures-Fixed Income Fut Futures
+FGBS1!,Euro-Schatz Futures-Fixed Income Fut Futures
+FGBX1!,EURO-Buxl Futures-Fixed Income Fut Futures
+FGLD1!,Gold Futures
+FINNIFTY1!,FINNIFTY FUTURES
+FKLI1!,FTSE Bursa Malaysia KLCI Futures
+FMWO1!,MSCI World Index Futures
+FNG1!,MICRO NYSE FANG+™ Index Futures
+FOAT1!,Euro-OAT Futures-Fixed Income Fut Futures
+FSMI1!,SMI Futures
+FSOY1!,DCE Soybean Oil Futures
+FSR31!,3M SARON Futures
+FTI1!,AEX INDEX FUTURES
+FTUK1!,FTSE 100 Index Futures
+FU1!,Fuel Oil Futures
+FUSD1!,US Dollar Futures
+FVS1!,FVS-VSTOXX Futures
+FW201!,WIG20 INDEX FUTURES
+FW401!,WIG40 INDEX FUTURES
+FXXP1!,STOXX Europe 600 Index Futures
+G1!,SHORT GILT FUTURES
+G101!,LONG GERMAN BOND FUTURE (BUND)
+G301!,ULTRA LONG GERMAN BOND FUTURE (BUXL)
+GBP1!,10YR GBP SONIA SWAPNOTE
+GBPINR1!,GBPINR Futures
+GBPUSD1!,GBP/USD Futures
+GBPUSD1!,GBPUSD Futures
+GC1!,Gold Futures
+GD1!,Gold Futures
+GEO1!,CBL Global Emissions Offset Futures
+GF1!,Feeder Cattle Futures
+GF101!,10 Baht Gold Futures
+GNF1!,Nonfat Dry Milk Futures
+GO1!,Gold Online Futures
+GOLD1!,Gold Futures
+GOLDGUINEA1!,Gold Guinea Futures
+GOLDM1!,Gold Mini Futures
+GOLDPETAL1!,Gold Petal Futures
+GUARGUM51!,Guar Gum Refined Splits Futures
+GUARSEED101!,Guar Seed Futures
+GWM1!,UK NBP Natural Gas Futures
+H1!,MEDIUM GILT FUTURES
+HC1!,Hot Rolled Coils Futures
+HE1!,Lean Hog Futures
+HG1!,Copper Futures
+HH1!,Natural Gas (Henry Hub) Last-day Financial Futures
+HHI1!,Hang Seng China Enterprises Index (HSCEI) Futures
+HK1!,HKD/RUB Exchange rate futures
+HO1!,NY Harbor ULSD Futures
+HRC1!,U.S. Midwest Domestic Hot-Rolled Coil Steel (CRU) Index Futures
+HSI1!,Hang Seng Index Futures
+HTI1!,Hang Seng TECH Index Futures
+I051!,MEDIUM ITALIAN BOND (BTP) FUTURES
+I1!,THREE MONTH EURO (EURIBOR) FUTURES
+I101!,LONG ITALIAN BOND (BTP) FUTURES
+ICF1!,Arabica Coffee Futures
+ILS1!,Israeli Shekel Futures
+IMV1!,S&P Merval Futures
+IND1!,Bovespa Index Futures
+INR1!,USD/INR (USD) Futures
+ISP1!,S&P 500 Index Futures
+IU1!,INR/USD Futures
+J71!,E-mini Japanese Yen Futures
+JB1!,MINI Japan GOVT BOND Futures
+JEERAUNJHA1!,Jeera Futures
+JG1!,Japan GOVT BOND Futures
+JN4001!,JPX400 FUTURES
+JPYINR1!,JPYINR Futures
+K1!,THREE MONTH EURO (EURIBOR) 1YR MID-CURVE
+KAPAS1!,Kapas Futures
+KC1!,Coffee C Futures
+KE1!,KC HRW Wheat Futures
+KRW1!,Korean Won Futures
+KT1!,Coffee Futures
+KU1!,KRW/USD (Mini) Futures
+LBR1!,Lumber Futures
+LE1!,Live Cattle Futures
+LEAD1!,Lead Futures
+LEADMINI1!,Lead Mini Futures
+LH1!,LME Lithium Hydroxide CIF (Fastmarkets MB) Futures
+LT1!,ASX 20 Year Treasury Bond Futures
+LTC1!,Lithium Carbonate CIF CJK (Fastmarkets) Futures
+LTH1!,Lithium futures
+M2K1!,Micro E-mini Russell 2000 Index Futures
+M6A1!,Micro AUD/USD Futures
+M6B1!,Micro GBP/USD Futures
+10Y1!,Micro 10-Year Yield Futures
+2YY1!,Micro 2-Year Yield Futures
+30Y1!,Micro 30-Year Yield Futures
+55U1!,30-Year UMBS TBA Futures - 5.5% Coupon
+5YY1!,Micro 5-Year Yield Futures
+60U1!,30-Year UMBS TBA Futures - 6.0% Coupon
+6A1!,Australian Dollar Futures
+6B1!,British Pound Futures
+6C1!,Canadian Dollar Futures
+6E1!,Euro FX Futures
+6J1!,Japanese Yen Futures
+6L1!,Brazilian Real Futures
+6M1!,Mexican Peso Futures
+6N1!,New Zealand Dollar Futures
+6R1!,Russian Ruble Futures
+6S1!,Swiss Franc Futures
+6Z1!,South African Rand Futures
+A9N1!,Argus Propane (Saudi Aramco) Futures
+ACF1!,"SGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures"
+AG1!,Silver Futures
+AH1!,Aluminium High Grade Futures
+AL1!,Aluminum Futures
+ALI1!,Aluminum Futures
+ALUMINI1!,Aluminium Mini Futures
+ALUMINIUM1!,Aluminium Futures
+AP1!,ASX SPI 200 Index Futures
+ATW1!,API2 Rotterdam Coal Futures
+AU1!,Gold Futures
+AW1!,Bloomberg Commodity Index Futures
+AZ11!,Ethanol T2 FOB Rdam Including Duty (Platts) Futures
+BANKNIFTY1!,GIFT NIFTY BANK INDEX FUTURES
+BANKNIFTY1!,BANKNIFTY INDEX FUTURES
+BGI1!,Live Cattle Futures
+BKX1!,BSE BANKEX
+BLK1!,Block Cheese Futures
+BR1!,Butadiene Rubber Futures
+BR1!,Brent Crude Oil Futures
+BRF1!,Brent Crude Oil Futures
+BRN1!,Brent Crude Futures
+BSX1!,SENSEX INDEX FUTURES
+BTC1!,Bitcoin Futures
+BU1!,Bitumen Futures
+BUX1!,BUX Index Futures
+BZ1!,Brent Last Day Financial Futures
+C,C1!
+C101!,LONG SWISS CONFEDERATION BOND FUTURES
+CA1!,Grade A Copper Futures
+CASTOR1!,Castor Seed Futures
+CB1!,Cash-settled Butter Futures
+CC1!,Cocoa Futures
+CCM1!,Cash Settled Corn
+CJ1!,Cocoa Futures
+CL1!,Crude Oil Futures
+CN1!,FTSE CHINA A50 INDEX Futures
+CNH1!,Standard-Size USD/Offshore RMB (CNH) Futures
+CO1!,Cobalt Futures
+COB1!,Cobalt Metal (Fastmarkets) Futures
+COCUDAKL1!,Undecorticated Cotton Seed Oilcake – Akola Futures
+COPPER1!,Copper Futures
+COTTONCNDY1!,COTTONCNDY Futures
+CPO1!,USD Malaysian Crude Palm Oil Calendar Futures
+CR1!,Futures on CNY/RUB Exchange Rate
+CRUDEOIL1!,Crude Oil Futures
+CRUDEOILM1!,Crude Oil Mini Futures
+CS11!,Container Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures
+CS61!,Container Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures
+CSC1!,Cash-Settled Cheese Futures
+CT1!,Cotton No. 2 Futures
+CU1!,Copper Cathode Futures
+CU1!,Chicago Ethanol (Platts) Futures
+CUS1!,USD/CNH Futures
+D1N1!,Singapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures
+DAP1!,ID x IPCA Spread Futures
+DAX1!,DAX Futures
+DC1!,Class III Milk Futures
+DDI1!,ID x U.S. Dollar Spread Futures
+DEB1!,German Power Baseload Calendar Month Futures
+DHANIYA1!,Coriander Futures
+DI11!,One-day Interbank Deposit Futures
+DJIA1!,DJIA FUTURES
+DLR1!,Dollar Futures
+DOL1!,US Dollar Futures
+DX1!,US Dollar Index® Futures
+E71!,E-mini Euro FX Futures
+ECF1!,EUA FUTURES
+ED1!,Euro-US Dollar Futures
+EMD1!,E-mini S&P MidCap 400 Futures
+ES1!,E-mini S&P 500 Futures
+ES1!,SA Base Load Month Electricity Futures
+ESR1!,Euro Short-Term Rate (€STR) Futures
+EST1!,BTIC E-mini S&P 500 Futures
+ETH1!,Hydrous Ethanol Futures
+ETH1!,Ethereum Futures
+EU1!,Euro-Ruble Futures
+EURINR1!,EURINR Futures
+EURTRY1!,Euro/Turkish Lira Futures
+EURUSD1!,EURUSD Futures
+EURUSD1!,EURO/USD Futures
+EURUSD1!,EURUSD Futures
+FATX1!,ATX Futures
+FBK21!,Eurex Daily Futures on KOSPI 200 Futures
+FBON1!,Euro-BONO Futures-Fixed Income Fut Futures
+FBTP1!,Long-Term Euro-BTP Futures-Fixed Income Fut Futures
+FCE1!,CAC 40 INDEX FUTURES
+FCEU1!,EUR/USD Futures
+FCPO1!,Crude Palm Oil Futures
+FDAX1!,DAX Futures
+FDXM1!,Mini-DAX Futures
+FDXS1!,Micro-DAX Futures
+FEF1!,"SGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures,Jul-2024,Composite Futures"
+FESB1!,EURO STOXX Banks Futures
+FESX1!,EURO STOXX 50 Index Futures
+FFOX1!,OMXH25 Futures
+FGBL1!,Euro-Bund Futures-Fixed Income Fut Futures
+FGBM1!,Euro-Bobl Futures-Fixed Income Fut Futures
+FGBS1!,Euro-Schatz Futures-Fixed Income Fut Futures
+FGBX1!,EURO-Buxl Futures-Fixed Income Fut Futures
+FGLD1!,Gold Futures
+FINNIFTY1!,FINNIFTY FUTURES
+FKLI1!,FTSE Bursa Malaysia KLCI Futures
+FMWO1!,MSCI World Index Futures
+FNG1!,MICRO NYSE FANG+™ Index Futures
+FOAT1!,Euro-OAT Futures-Fixed Income Fut Futures
+FSMI1!,SMI Futures
+FSOY1!,DCE Soybean Oil Futures
+FSR31!,3M SARON Futures
+FTI1!,AEX INDEX FUTURES
+FTUK1!,FTSE 100 Index Futures
+FU1!,Fuel Oil Futures
+FUSD1!,US Dollar Futures
+FVS1!,FVS-VSTOXX Futures
+FW201!,WIG20 INDEX FUTURES
+FW401!,WIG40 INDEX FUTURES
+FXXP1!,STOXX Europe 600 Index Futures
+G1!,SHORT GILT FUTURES
+G101!,LONG GERMAN BOND FUTURE (BUND)
+G301!,ULTRA LONG GERMAN BOND FUTURE (BUXL)
+GBP1!,10YR GBP SONIA SWAPNOTE
+GBPINR1!,GBPINR Futures
+GBPUSD1!,GBP/USD Futures
+GBPUSD1!,GBPUSD Futures
+GC1!,Gold Futures
+GD1!,Gold Futures
+GEO1!,CBL Global Emissions Offset Futures
+GF1!,Feeder Cattle Futures
+GF101!,10 Baht Gold Futures
+GNF1!,Nonfat Dry Milk Futures
+GO1!,Gold Online Futures
+GOLD1!,Gold Futures
+GOLDGUINEA1!,Gold Guinea Futures
+GOLDM1!,Gold Mini Futures
+GOLDPETAL1!,Gold Petal Futures
+GUARGUM51!,Guar Gum Refined Splits Futures
+GUARSEED101!,Guar Seed Futures
+GWM1!,UK NBP Natural Gas Futures
+H1!,MEDIUM GILT FUTURES
+HC1!,Hot Rolled Coils Futures
+HE1!,Lean Hog Futures
+HG1!,Copper Futures
+HH1!,Natural Gas (Henry Hub) Last-day Financial Futures
+HHI1!,Hang Seng China Enterprises Index (HSCEI) Futures
+HK1!,HKD/RUB Exchange rate futures
+HO1!,NY Harbor ULSD Futures
+HRC1!,U.S. Midwest Domestic Hot-Rolled Coil Steel (CRU) Index Futures
+HSI1!,Hang Seng Index Futures
+HTI1!,Hang Seng TECH Index Futures
+I051!,MEDIUM ITALIAN BOND (BTP) FUTURES
+I1!,THREE MONTH EURO (EURIBOR) FUTURES
+I101!,LONG ITALIAN BOND (BTP) FUTURES
+ICF1!,Arabica Coffee Futures
+ILS1!,Israeli Shekel Futures
+IMV1!,S&P Merval Futures
+IND1!,Bovespa Index Futures
+INR1!,USD/INR (USD) Futures
+ISP1!,S&P 500 Index Futures
+IU1!,INR/USD Futures
+J71!,E-mini Japanese Yen Futures
+JB1!,MINI Japan GOVT BOND Futures
+JEERAUNJHA1!,Jeera Futures
+JG1!,Japan GOVT BOND Futures
+JN4001!,JPX400 FUTURES
+JPYINR1!,JPYINR Futures
+K1!,THREE MONTH EURO (EURIBOR) 1YR MID-CURVE
+KAPAS1!,Kapas Futures
+KC1!,Coffee C Futures
+KE1!,KC HRW Wheat Futures
+KRW1!,Korean Won Futures
+KT1!,Coffee Futures
+KU1!,KRW/USD (Mini) Futures
+LBR1!,Lumber Futures
+LE1!,Live Cattle Futures
+LEAD1!,Lead Futures
+LEADMINI1!,Lead Mini Futures
+LH1!,LME Lithium Hydroxide CIF (Fastmarkets MB) Futures
+LT1!,ASX 20 Year Treasury Bond Futures
+LTC1!,Lithium Carbonate CIF CJK (Fastmarkets) Futures
+LTH1!,Lithium futures
+M2K1!,Micro E-mini Russell 2000 Index Futures
+M6A1!,Micro AUD/USD Futures
+M6B1!,Micro GBP/USD Futures
+M6E1!,Micro EUR/USD Futures
+MAI.ROS1!,Corn Futures in Dollars
+MBT1!,Micro Bitcoin Futures
+MCA1!,MSCI China A 50 Connect (USD) Index Futures
+MCD1!,Micro CAD/USD Futures
+MCH1!,MSCI MEXICO NTR (USD) - STND INDEX FUTURES
+MCL1!,Micro WTI Crude Oil Futures
+MD1!,LME Molybdenum Futures
+MENTHAOIL1!,Mentha Oil Futures
+MES1!,Micro E-mini S&P 500 Index Futures
+MET1!,Micro Ether Futures
+MGC1!,Micro Gold Futures
+MHG1!,Micro Copper Futures
+MHI1!,Mini Hang Seng Index Futures
+MIDCPNIFTY1!,MIDCPNIFTY FUTURES
+MJY1!,Micro JPY/USD Futures
+MKP1!,Liquid NZ Milk Price Futures
+MM1!,MICEX MINI FUTURES
+MME1!,MSCI Emerging Markets Index Futures
+MNG1!,Micro Henry Hub Natural Gas Futures
+MNQ1!,Micro E-mini Nasdaq-100 Index Futures
+MOTHE1!,GROWTH 250 INDEX FUTURES
+MSF1!,Micro CHF/USD Futures
+MT21!,Methanol T2 FOB Rdam (ICIS) Futures
+MWL1!,MSCI World Index Futures
+MX1!,MICEX INDEX FUTURES
+MXF1!,MINI-TAIEX FUTURES
+MYM1!,Micro E-mini Dow Jones Industrial Average Index Futures
+NATGASMINI1!,Natural Gas Mini Futures
+NATURALGAS1!,Natural Gas Futures
+NCF1!,globalCOAL Newcastle Coal Futures
+NG1!,Natural Gas Futures
+NG1!,Henry Hub Natural Gas Futures
+NI1!,Nickel Futures
+NI1!,Nickel Futures
+NICKEL1!,Nickel Futures
+NIFTY1!,S&P CNX NIFTY INDEX FUTURES
+NIFTY1!,GIFT NIFTY 50 INDEX FUTURES
+NIY1!,Nikkei/Yen Futures
+NK1!,NIKKEI 225 INDEX Futures
+NK2251!,NIKKEI 225 FUTURES
+NK225M1!,NIKKEI 225 MINI FUTURES
+NK225MC1!,NIKKEI 225 MICRO FUTURES
+NKD1!,Nikkei/USD Futures
+NKVI1!,NIKKEI 225 VI FUTURES
+NOK1!,Norwegian Krone Futures
+NQ1!,E-mini Nasdaq-100 Futures
+O1!,5YR EURO SWAPNOTE FUTURES
+OBF1!,OBX INDEX FUTURES
+OJ1!,Frozen Concentrate Orange Juice A Futures
+ORO1!,Gold Futures
+P1!,10YR EURO SWAPNOTE FUTURES
+PA1!,Palladium Futures
+PB1!,Lead Futures
+PB1!,Lead Futures
+PD1!,Palladium Futures
+PL1!,Platinum Futures
+PLN1!,Polish Zloty Futures
+PRK1!,Pork Cutout Futures
+PT1!,Platinum Futures
+QC1!,E-mini Copper Futures
+QCN1!,E-mini Nasdaq Composite Futures
+QG1!,E-mini Natural Gas Futures
+QI1!,E-mini Silver Futures
+QM1!,E-mini Crude Oil Futures
+QMW1!,HARD RED SPRING WHEAT FUTURES
+QO1!,Gold (Mini) Futures
+R1!,LONG GILT FUTURES
+RB1!,Steel Rebar Futures
+RB1!,RBOB Gasoline Futures
+R,RC1!
+REIT1!,TSE REIT INDEX FUTURES
+RF1!,Euro/Swiss Franc Futures
+RFX201!,ROFEX 20 INDEX FUTURES
+RI1!,RTS INDEX FUTURES
+RM1!,RTS INDEX FUTURES (MINI)
+RMB1!,Chinese Renminbi/USD Futures
+RP1!,Euro/British Pound Futures
+RR1!,RUBLE OVERNIGHT INDEX AVERAGE FUTURES
+RS11!,E-mini Russell 1000 Index Futures
+RSI1!,RepoFunds Rate (Italy) - Three-Month Single Contract Basis Spread Futures
+RTY1!,E-mini Russell 2000 Index Futures
+RU1!,Natural Rubber Futures
+RX1!,Dow Jones U.S. Real Estate Index Futures
+RY1!,Euro/Japanese Yen Futures
+S501!,SET50 Index Futures
+SA1!,Sugar Futures
+SA31!,THREE MONTH SARON
+SB1!,Sugar No. 11 Futures
+SC1!,LME Steel Scrap CFR Turkey (Platts) Futures
+SEK1!,Swedish Krona Futures
+SF1!,Sugar No. 16 Futures
+SF11!,ONE MONTH SOFR FUTURES
+SF31!,THREE MONTH SOFR FUTURES
+SGP1!,MSCI Singapore Index Futures
+SI1!,US Dollar-Ruble Futures
+SI1!,Silver Futures
+SIL1!,Micro Silver Futures
+SILVER1!,Silver Futures
+SILVERM1!,Silver Mini Futures
+10Y1!,Micro 10-Year Yield Futures
+2YY1!,Micro 2-Year Yield Futures
+30Y1!,Micro 30-Year Yield Futures
+55U1!,30-Year UMBS TBA Futures - 5.5% Coupon
+5YY1!,Micro 5-Year Yield Futures
+60U1!,30-Year UMBS TBA Futures - 6.0% Coupon
+6A1!,Australian Dollar Futures
+6B1!,British Pound Futures
+6C1!,Canadian Dollar Futures
+6E1!,Euro FX Futures
+6J1!,Japanese Yen Futures
+6L1!,Brazilian Real Futures
+6M1!,Mexican Peso Futures
+6N1!,New Zealand Dollar Futures
+6R1!,Russian Ruble Futures
+6S1!,Swiss Franc Futures
+6Z1!,South African Rand Futures
+A9N1!,Argus Propane (Saudi Aramco) Futures
+ACF1!,"SGX TSI FOB Australia Premium Coking Coal Futures,Jul-2024,Composite Futures"
+AG1!,Silver Futures
+AH1!,Aluminium High Grade Futures
+AL1!,Aluminum Futures
+ALI1!,Aluminum Futures
+ALUMINI1!,Aluminium Mini Futures
+ALUMINIUM1!,Aluminium Futures
+AP1!,ASX SPI 200 Index Futures
+ATW1!,API2 Rotterdam Coal Futures
+AU1!,Gold Futures
+AW1!,Bloomberg Commodity Index Futures
+AZ11!,Ethanol T2 FOB Rdam Including Duty (Platts) Futures
+BANKNIFTY1!,BANKNIFTY INDEX FUTURES
+BANKNIFTY1!,GIFT NIFTY BANK INDEX FUTURES
+BGI1!,Live Cattle Futures
+BKX1!,BSE BANKEX
+BLK1!,Block Cheese Futures
+BR1!,Brent Crude Oil Futures
+BR1!,Butadiene Rubber Futures
+BRF1!,Brent Crude Oil Futures
+BRN1!,Brent Crude Futures
+BSX1!,SENSEX INDEX FUTURES
+BTC1!,Bitcoin Futures
+BU1!,Bitumen Futures
+BUX1!,BUX Index Futures
+BZ1!,Brent Last Day Financial Futures
+C,C1!
+C101!,LONG SWISS CONFEDERATION BOND FUTURES
+CA1!,Grade A Copper Futures
+CASTOR1!,Castor Seed Futures
+CB1!,Cash-settled Butter Futures
+CC1!,Cocoa Futures
+CCM1!,Cash Settled Corn
+CJ1!,Cocoa Futures
+CL1!,Crude Oil Futures
+CN1!,FTSE CHINA A50 INDEX Futures
+CNH1!,Standard-Size USD/Offshore RMB (CNH) Futures
+CO1!,Cobalt Futures
+COB1!,Cobalt Metal (Fastmarkets) Futures
+COCUDAKL1!,Undecorticated Cotton Seed Oilcake – Akola Futures
+COPPER1!,Copper Futures
+COTTONCNDY1!,COTTONCNDY Futures
+CPO1!,USD Malaysian Crude Palm Oil Calendar Futures
+CR1!,Futures on CNY/RUB Exchange Rate
+CRUDEOIL1!,Crude Oil Futures
+CRUDEOILM1!,Crude Oil Mini Futures
+CS11!,Container Freight (China/East Asia to US West Coast) (FBX01) (Baltic) Futures
+CS61!,Container Freight (China/East Asia to Mediterranean) (FBX13) (Baltic) Futures
+CSC1!,Cash-Settled Cheese Futures
+CT1!,Cotton No. 2 Futures
+CU1!,Chicago Ethanol (Platts) Futures
+CU1!,Copper Cathode Futures
+CUS1!,USD/CNH Futures
+D1N1!,Singapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures
+DAP1!,ID x IPCA Spread Futures
+DAX1!,DAX Futures
+DC1!,Class III Milk Futures
+DDI1!,ID x U.S. Dollar Spread Futures
+DEB1!,German Power Baseload Calendar Month Futures
+DHANIYA1!,Coriander Futures
+DI11!,One-day Interbank Deposit Futures
+DJIA1!,DJIA FUTURES
+DLR1!,Dollar Futures
+DOL1!,US Dollar Futures
+DX1!,US Dollar Index® Futures
+E71!,E-mini Euro FX Futures
+ECF1!,EUA FUTURES
+ED1!,Euro-US Dollar Futures
+EMD1!,E-mini S&P MidCap 400 Futures
+ES1!,E-mini S&P 500 Futures
+ES1!,SA Base Load Month Electricity Futures
+ESR1!,Euro Short-Term Rate (€STR) Futures
+EST1!,BTIC E-mini S&P 500 Futures
+ETH1!,Hydrous Ethanol Futures
+ETH1!,Ethereum Futures
+EU1!,Euro-Ruble Futures
+EURINR1!,EURINR Futures
+EURTRY1!,Euro/Turkish Lira Futures
+EURUSD1!,EURO/USD Futures
+EURUSD1!,EURUSD Futures
+EURUSD1!,EURUSD Futures
+FATX1!,ATX Futures
+FBK21!,Eurex Daily Futures on KOSPI 200 Futures
+FBON1!,Euro-BONO Futures-Fixed Income Fut Futures
+FBTP1!,Long-Term Euro-BTP Futures-Fixed Income Fut Futures
+FCE1!,CAC 40 INDEX FUTURES
+FCEU1!,EUR/USD Futures
+FCPO1!,Crude Palm Oil Futures
+FDAX1!,DAX Futures
+FDXM1!,Mini-DAX Futures
+FDXS1!,Micro-DAX Futures
+FEF1!,"SGX TSI Iron Ore CFR China (62% Fe Fines) Index Futures,Jul-2024,Composite Futures"
+FESB1!,EURO STOXX Banks Futures
+FESX1!,EURO STOXX 50 Index Futures
+FFOX1!,OMXH25 Futures
+FGBL1!,Euro-Bund Futures-Fixed Income Fut Futures
+FGBM1!,Euro-Bobl Futures-Fixed Income Fut Futures
+FGBS1!,Euro-Schatz Futures-Fixed Income Fut Futures
+FGBX1!,EURO-Buxl Futures-Fixed Income Fut Futures
+FGLD1!,Gold Futures
+FINNIFTY1!,FINNIFTY FUTURES
+FKLI1!,FTSE Bursa Malaysia KLCI Futures
+FMWO1!,MSCI World Index Futures
+FNG1!,MICRO NYSE FANG+™ Index Futures
+FOAT1!,Euro-OAT Futures-Fixed Income Fut Futures
+FSMI1!,SMI Futures
+FSOY1!,DCE Soybean Oil Futures
+FSR31!,3M SARON Futures
+FTI1!,AEX INDEX FUTURES
+FTUK1!,FTSE 100 Index Futures
+FU1!,Fuel Oil Futures
+FUSD1!,US Dollar Futures
+FVS1!,FVS-VSTOXX Futures
+FW201!,WIG20 INDEX FUTURES
+FW401!,WIG40 INDEX FUTURES
+FXXP1!,STOXX Europe 600 Index Futures
+G1!,SHORT GILT FUTURES
+G101!,LONG GERMAN BOND FUTURE (BUND)
+G301!,ULTRA LONG GERMAN BOND FUTURE (BUXL)
+GBP1!,10YR GBP SONIA SWAPNOTE
+GBPINR1!,GBPINR Futures
+GBPUSD1!,GBP/USD Futures
+GBPUSD1!,GBPUSD Futures
+GC1!,Gold Futures
+GD1!,Gold Futures
+GEO1!,CBL Global Emissions Offset Futures
+GF1!,Feeder Cattle Futures
+GF101!,10 Baht Gold Futures
+GNF1!,Nonfat Dry Milk Futures
+GO1!,Gold Online Futures
+GOLD1!,Gold Futures
+GOLDGUINEA1!,Gold Guinea Futures
+GOLDM1!,Gold Mini Futures
+GOLDPETAL1!,Gold Petal Futures
+GUARGUM51!,Guar Gum Refined Splits Futures
+GUARSEED101!,Guar Seed Futures
+GWM1!,UK NBP Natural Gas Futures
+H1!,MEDIUM GILT FUTURES
+HC1!,Hot Rolled Coils Futures
+HE1!,Lean Hog Futures
+HG1!,Copper Futures
+HH1!,Natural Gas (Henry Hub) Last-day Financial Futures
+HHI1!,Hang Seng China Enterprises Index (HSCEI) Futures
+HK1!,HKD/RUB Exchange rate futures
+HO1!,NY Harbor ULSD Futures
+HRC1!,U.S. Midwest Domestic Hot-Rolled Coil Steel (CRU) Index Futures
+HSI1!,Hang Seng Index Futures
+HTI1!,Hang Seng TECH Index Futures
+I051!,MEDIUM ITALIAN BOND (BTP) FUTURES
+I1!,THREE MONTH EURO (EURIBOR) FUTURES
+I101!,LONG ITALIAN BOND (BTP) FUTURES
+ICF1!,Arabica Coffee Futures
+ILS1!,Israeli Shekel Futures
+IMV1!,S&P Merval Futures
+IND1!,Bovespa Index Futures
+INR1!,USD/INR (USD) Futures
+ISP1!,S&P 500 Index Futures
+IU1!,INR/USD Futures
+J71!,E-mini Japanese Yen Futures
+JB1!,MINI Japan GOVT BOND Futures
+JEERAUNJHA1!,Jeera Futures
+JG1!,Japan GOVT BOND Futures
+JN4001!,JPX400 FUTURES
+JPYINR1!,JPYINR Futures
+K1!,THREE MONTH EURO (EURIBOR) 1YR MID-CURVE
+KAPAS1!,Kapas Futures
+KC1!,Coffee C Futures
+KE1!,KC HRW Wheat Futures
+KRW1!,Korean Won Futures
+KT1!,Coffee Futures
+KU1!,KRW/USD (Mini) Futures
+LBR1!,Lumber Futures
+LE1!,Live Cattle Futures
+LEAD1!,Lead Futures
+LEADMINI1!,Lead Mini Futures
+LH1!,LME Lithium Hydroxide CIF (Fastmarkets MB) Futures
+LT1!,ASX 20 Year Treasury Bond Futures
+LTC1!,Lithium Carbonate CIF CJK (Fastmarkets) Futures
+LTH1!,Lithium futures
+M2K1!,Micro E-mini Russell 2000 Index Futures
+M6A1!,Micro AUD/USD Futures
+M6B1!,Micro GBP/USD Futures
+M6E1!,Micro EUR/USD Futures
+MAI.ROS1!,Corn Futures in Dollars
+MBT1!,Micro Bitcoin Futures
+MCA1!,MSCI China A 50 Connect (USD) Index Futures
+MCD1!,Micro CAD/USD Futures
+MCH1!,MSCI MEXICO NTR (USD) - STND INDEX FUTURES
+MCL1!,Micro WTI Crude Oil Futures
+MD1!,LME Molybdenum Futures
+MENTHAOIL1!,Mentha Oil Futures
+MES1!,Micro E-mini S&P 500 Index Futures
+MET1!,Micro Ether Futures
+MGC1!,Micro Gold Futures
+MHG1!,Micro Copper Futures
+MHI1!,Mini Hang Seng Index Futures
+MIDCPNIFTY1!,MIDCPNIFTY FUTURES
+MJY1!,Micro JPY/USD Futures
+MKP1!,Liquid NZ Milk Price Futures
+MM1!,MICEX MINI FUTURES
+MME1!,MSCI Emerging Markets Index Futures
+MNG1!,Micro Henry Hub Natural Gas Futures
+MNQ1!,Micro E-mini Nasdaq-100 Index Futures
+MOTHE1!,GROWTH 250 INDEX FUTURES
+MSF1!,Micro CHF/USD Futures
+MT21!,Methanol T2 FOB Rdam (ICIS) Futures
+MWL1!,MSCI World Index Futures
+MX1!,MICEX INDEX FUTURES
+MXF1!,MINI-TAIEX FUTURES
+MYM1!,Micro E-mini Dow Jones Industrial Average Index Futures
+NATGASMINI1!,Natural Gas Mini Futures
+NATURALGAS1!,Natural Gas Futures
+NCF1!,globalCOAL Newcastle Coal Futures
+NG1!,Henry Hub Natural Gas Futures
+NG1!,Natural Gas Futures
+NI1!,Nickel Futures
+NI1!,Nickel Futures
+NICKEL1!,Nickel Futures
+NIFTY1!,GIFT NIFTY 50 INDEX FUTURES
+NIFTY1!,S&P CNX NIFTY INDEX FUTURES
+NIY1!,Nikkei/Yen Futures
+NK1!,NIKKEI 225 INDEX Futures
+NK2251!,NIKKEI 225 FUTURES
+NK225M1!,NIKKEI 225 MINI FUTURES
+NK225MC1!,NIKKEI 225 MICRO FUTURES
+NKD1!,Nikkei/USD Futures
+NKVI1!,NIKKEI 225 VI FUTURES
+NOK1!,Norwegian Krone Futures
+NQ1!,E-mini Nasdaq-100 Futures
+O1!,5YR EURO SWAPNOTE FUTURES
+OBF1!,OBX INDEX FUTURES
+OJ1!,Frozen Concentrate Orange Juice A Futures
+ORO1!,Gold Futures
+P1!,10YR EURO SWAPNOTE FUTURES
+PA1!,Palladium Futures
+PB1!,Lead Futures
+PB1!,Lead Futures
+PD1!,Palladium Futures
+PL1!,Platinum Futures
+PLN1!,Polish Zloty Futures
+PRK1!,Pork Cutout Futures
+PT1!,Platinum Futures
+QC1!,E-mini Copper Futures
+QCN1!,E-mini Nasdaq Composite Futures
+QG1!,E-mini Natural Gas Futures
+QI1!,E-mini Silver Futures
+QM1!,E-mini Crude Oil Futures
+QMW1!,HARD RED SPRING WHEAT FUTURES
+QO1!,Gold (Mini) Futures
+R1!,LONG GILT FUTURES
+RB1!,Steel Rebar Futures
+RB1!,RBOB Gasoline Futures
+R,RC1!
+REIT1!,TSE REIT INDEX FUTURES
+RF1!,Euro/Swiss Franc Futures
+RFX201!,ROFEX 20 INDEX FUTURES
+RI1!,RTS INDEX FUTURES
+RM1!,RTS INDEX FUTURES (MINI)
+RMB1!,Chinese Renminbi/USD Futures
+RP1!,Euro/British Pound Futures
+RR1!,RUBLE OVERNIGHT INDEX AVERAGE FUTURES
+RS11!,E-mini Russell 1000 Index Futures
+RSI1!,RepoFunds Rate (Italy) - Three-Month Single Contract Basis Spread Futures
+RTY1!,E-mini Russell 2000 Index Futures
+RU1!,Natural Rubber Futures
+RX1!,Dow Jones U.S. Real Estate Index Futures
+RY1!,Euro/Japanese Yen Futures
+S501!,SET50 Index Futures
+SA1!,Sugar Futures
+SA31!,THREE MONTH SARON
+SB1!,Sugar No. 11 Futures
+SC1!,LME Steel Scrap CFR Turkey (Platts) Futures
+SEK1!,Swedish Krona Futures
+SF1!,Sugar No. 16 Futures
+SF11!,ONE MONTH SOFR FUTURES
+SF31!,THREE MONTH SOFR FUTURES
+SGP1!,MSCI Singapore Index Futures
+SI1!,Silver Futures
+SI1!,US Dollar-Ruble Futures
+SIL1!,Micro Silver Futures
+SILVER1!,Silver Futures
+SILVERM1!,Silver Mini Futures
+SILVERMIC1!,Silver Micro Futures
+SIR1!,Indian Rupee/USD Futures
+SJC1!,Mini-Sized Soybean CME
+SMC1!,E-mini S&P 600 SmallCap Futures
+SMP1!,Skim Milk Powder Futures
+SN1!,Tin Futures
+SN1!,Tin Futures
+SO31!,THREE MONTH SONIA
+SOJ.ROS1!,Rosario Soybean Futures in Dollars
+SOX1!,E-mini PHLX Semiconductor Sector Futures
+SOY.CME1!,Chicago Soybean Futures
+SOY1!,FOB Santos (Platts) Soybean Futures
+SP1!,Bleached Softwood Kraft Pulp Futures
+SR11!,One-Month SOFR Futures
+SR31!,ICE Three-Month SOFR Index Futures
+SR31!,Three-Month SOFR Futures
+SS1!,Stainless Steel Futures
+ST1!,STRAITS TIMES INDEX Futures
+STEEL1!,Steel Long Futures
+SUNOIL1!,Crude Sunflower Oil Futures
+SV1!,Silver Futures
+SVF1!,Silver Futures
+SX501!,SENSEX50 FUTURES
+T101!,Ten-Year U.S. Treasury Note Futures
+TCL1!,Dubai Crude Oil Futures
+TF1!,"SGX SICOM TSR20 Futures,Aug-2024,Composite Futures"
+TFM1!,DUTCH TTF GAS BASE LOAD FUTURES
+TFN1!,ICE Futures Europe Dutch TTF Natural Gas Futures
+TFU1!,Dutch TTF Natural Gas Last Day Financial Futures (USD/MMBTU)
+TGCN1!,Corn Futures
+TGD1!,Gold Futures
+TGM1!,Gold mini Futures
+THO1!,Kerosene Futures
+TIO1!,"Iron Ore 62% Fe, CFR China (TSI) Futures"
+TJF1!,TOPIX FUTURES
+TMCFGRNZM1!,Turmeric Futures
+TN1!,Ultra 10-Year U.S. Treasury Note Futures
+TOPIX1!,TOPIX FUTURES
+TOPIXM1!,TOPIX MINI FUTURES
+TPL1!,Platinum Futures
+TPLM1!,Platinum mini Futures
+TRB1!,RSS3 Rubber Futures
+TRL1!,Turkish Lira/US Dollar (TRY/USD) Future
+TSI1!,Silver Futures
+TT1!,Cotton Futures
+TTF1!,Dutch TTF Natural Gas Calendar Month Futures
+TWE1!,20-Year U.S. Treasury Bond Futures
+TWN1!,FTSE Taiwan Index Futures
+TXF1!,TAIEX FUTURES
+TY1!,TRY/RUB exchange rate futures
+U1!,ULTRA LONG GILT FUTURES
+UB1!,Ultra U.S. Treasury Bond Futures
+UBL1!,UK Base Electricity Futures (Gregorian)
+UC1!,USD/CNY Exchange Rate Cash-Settled Futures
+UC1!,USD/CNH (Full-Sized) Futures
+UCR1!,UCOME Biodiesel (RED Compliant) FOB ARA (Argus) Futures
+UDF1!,DJIA FUTURES
+UFB1!,Urea (Granular) CFR Brazil Futures
+UFE1!,Urea (Granular) FOB Egypt Futures
+UHO1!,Heating Oil/Low Sulphur Gasoil Futures Spread
+UHU1!,RBOB Gasoline Average Price Futures
+ULS1!,Low Sulphur Gasoil Futures
+UME1!,Urea (Granular) FOB Middle East Futures
+UNF1!,NASDAQ-100 FUTURES
+UPL1!,UK Peak Electricity Future (Gregorian)
+US31!,30YR SOFR SWAPNOTE FUTURES
+USD1!,US Dollar Futures
+USDINR1!,USDINR Futures
+USDJPY1!,USDJPY Futures
+USDJPY1!,USDJPY Futures
+USDTRY1!,USD/Turkish Lira Futures
+USO1!,5YR SOFR SWAPNOTE FUTURES
+USP1!,10YR SOFR SWAPNOTE FUTURES
+USW1!,2YR SOFR SWAPNOTE FUTURES
+UX1!,UxC Uranium U3O8 Futures
+VN301!,VN30 Index Futures
+VX1!,CBOE VOLATILITY INDEX (VIX) FUTURES
+VXM1!,MINI CBOE VOLATILITY INDEX (VXM) FUTURES
+W,W1!
+WBS1!,WTI Crude Futures
+WDO1!,Mini U.S. Dollar Futures
+WHT1!,UK Feed Wheat Futures
+WIN1!,Bovespa Index-Mini Futures
+WMP1!,Whole Milk Powder Futures
+WSP1!,Micro S&P 500 Futures
+WTI1!,Oil Futures
+WTI1!,WTI Midland (Argus) Trade Month Futures
+XAGUSD1!,Silver USD per ounce Futures
+XAU1!,E-mini Utilities Select Sector Futures
+XAUTRY1!,Gold TRY per gram Futures
+XAUUSD1!,Gold USD per ounce Futures
+XC1!,Corn Mini Futures
+XK1!,Soybean Mini Futures
+XLBNKD1!,BIST LIQUID BANKS FUTURES
+XPDUSD1!,Palladium USD per ounce Futures
+XPTUSD1!,Platinum USD per ounce Futures
+XT1!,ASX 10 Year Treasury Bond Futures
+XU030D1!,BIST 30 FUTURES
+XW1!,Wheat Mini Futures
+Y21!,FTSE 250 - STND INDEX FUTURES

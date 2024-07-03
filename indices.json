@@ -1,0 +1,248 @@
+[
+    {
+        "Name": "SPX\nS&P 500"
+    },
+    {
+        "Name": "IXIC\nUS Composite Index"
+    },
+    {
+        "Name": "DJI\nDow Jones Industrial Average Index"
+    },
+    {
+        "Name": "VIX\nCBOE Volatility Index\nD"
+    },
+    {
+        "Name": "TSX\nS&P/TSX Composite index\nD"
+    },
+    {
+        "Name": "UKX\nUK 100 INDEX"
+    },
+    {
+        "Name": "DAX\nDAX Index\nD"
+    },
+    {
+        "Name": "PX1\nCAC 40 Index\nD"
+    },
+    {
+        "Name": "FTMIB\nMILANO ITALIA BORSA INDEX"
+    },
+    {
+        "Name": "NI225\nNikkei 225 Index"
+    },
+    {
+        "Name": "KOSPI\nKOREA COMPOSITE STOCK PRICE INDEX (KOSPI)"
+    },
+    {
+        "Name": "000001\nSSE Composite Index\nD"
+    },
+    {
+        "Name": "399001\nShenzhen Component Index"
+    },
+    {
+        "Name": "HSI\nHang Seng Index"
+    },
+    {
+        "Name": "STI\nSTRAITS TIMES INDEX"
+    },
+    {
+        "Name": "XJO\nS&P/ASX 200 Index\nD"
+    },
+    {
+        "Name": "NZ50G\nS&P/NZX 50 Gross Index\nD"
+    },
+    {
+        "Name": "TAIEX\nTWSE Capitalization Weighted Stock Index\nD"
+    },
+    {
+        "Name": "FBMKLCI\nFTSE Bursa Malaysia KLCI Index\nD"
+    },
+    {
+        "Name": "COMPOSITE\nIDX Composite Index\nD"
+    },
+    {
+        "Name": "SX5E\nSTOXX 50"
+    },
+    {
+        "Name": "IBC\nIBEX 35 Index\nD"
+    },
+    {
+        "Name": "SMI\nSwiss Market Index\nD"
+    },
+    {
+        "Name": "WIG20\nWIG20 Index\nD"
+    },
+    {
+        "Name": "AEX\nAEX-Index\nD"
+    },
+    {
+        "Name": "BEL20\nBEL 20 Index\nD"
+    },
+    {
+        "Name": "IMOEX\nMOEX Russia Index"
+    },
+    {
+        "Name": "OMXH25\nOMX Helsinki 25 Index\nD"
+    },
+    {
+        "Name": "OMXS30\nOMX Stockholm 30 Index\nD"
+    },
+    {
+        "Name": "OMXC25\nOMX Copenhagen 25 Index\nD"
+    },
+    {
+        "Name": "BELEX15\nBELEX 15 Index\nD"
+    },
+    {
+        "Name": "OMXRGI\nOMX Riga Gross Index\nD"
+    },
+    {
+        "Name": "OMXTGI\nOMX Tallinn Gross Index\nD"
+    },
+    {
+        "Name": "OMXVGI\nOMX Vilnius Gross Index\nD"
+    },
+    {
+        "Name": "XU100\nBIST 100 Index\nD"
+    },
+    {
+        "Name": "TA35\nTA-35 Index\nD"
+    },
+    {
+        "Name": "SA40\nSOUTH AFRICA TOP 40 INDEX"
+    },
+    {
+        "Name": "NIFTY\nNifty 50 Index"
+    },
+    {
+        "Name": "SENSEX\nS&P BSE SENSEX Index\nD"
+    },
+    {
+        "Name": "DFMGI\nDFM General Index\nD"
+    },
+    {
+        "Name": "TASI\nTadawul All Shares Index\nD"
+    },
+    {
+        "Name": "GNRI\nQE Index\nD"
+    },
+    {
+        "Name": "BHBX\nBahrain All Share Index\nD"
+    },
+    {
+        "Name": "EGX30\nEGX 30 Index\nD"
+    },
+    {
+        "Name": "IBOV\nBovespa Index\nD"
+    },
+    {
+        "Name": "ME\nS&P/BMV IPC Index\nD"
+    },
+    {
+        "Name": "IMV\nS&P MERVAL Index\nD"
+    },
+    {
+        "Name": "ICAP\nMSCI COLCAP Index\nD"
+    },
+    {
+        "Name": "SP_IPSA\nS&P IPSA Index\nD"
+    },
+    {
+        "Name": "SPBLPGPT\nS&P/BVL Peru General Index TR (PEN)\nD"
+    },
+    {
+        "Name": "BUX\nBudapest Stock Exchange Index\nD"
+    },
+    {
+        "Name": "GD\nATHEX Composite Index\nD"
+    },
+    {
+        "Name": "BET\nBucharest Exchange Trading Index\nD"
+    },
+    {
+        "Name": "IDX30\nIDX 30 Index\nD"
+    },
+    {
+        "Name": "NL25EUR\nNetherlands 25"
+    },
+    {
+        "Name": "RUT\nUS Small Cap 2000 Index"
+    },
+    {
+        "Name": "AU200AUD\nAustralia 200"
+    },
+    {
+        "Name": "XMI\nNYSE Arca Major Market Index"
+    },
+    {
+        "Name": "US30USD\nUS Wall St 30"
+    },
+    {
+        "Name": "TRJEFFCRB\nThomson Reuters/CoreCommodity CRB Index"
+    },
+    {
+        "Name": "HSI\nHang Seng Index"
+    },
+    {
+        "Name": "DEU40\nGERMAN STOCK INDEX (DAX)"
+    },
+    {
+        "Name": "MOVE\nICE BofAML U.S. Bond Market Option Volatility Estimate Index"
+    },
+    {
+        "Name": "VIX\nVOLATILITY S&P 500"
+    },
+    {
+        "Name": "RUI\nUS Small Cap 1000 Index"
+    },
+    {
+        "Name": "HK33HKD\nHong Kong 33"
+    },
+    {
+        "Name": "SOX\nPHLX Semiconductor"
+    },
+    {
+        "Name": "XAU\nPHLX GOLD and SILVER SECTOR INDEX"
+    },
+    {
+        "Name": "OSX\nPHLX Oil Service Sector"
+    },
+    {
+        "Name": "CAC40\nCAC 40"
+    },
+    {
+        "Name": "NZ50G\nNZX 50 INDEX"
+    },
+    {
+        "Name": "AEX\nAEX"
+    },
+    {
+        "Name": "DJI\nDow Jones Industrial Average Index"
+    },
+    {
+        "Name": "IBEX35\nIBEX 35"
+    },
+    {
+        "Name": "SXXP\nSTOXX 600"
+    },
+    {
+        "Name": "NYA\nNYSE Composite Index"
+    },
+    {
+        "Name": "HGX\nPHLX Housing Sector"
+    },
+    {
+        "Name": "XAX\nNYSE American Composite Index"
+    },
+    {
+        "Name": "UTY\nPHLX Utility Sector"
+    },
+    {
+        "Name": "DE30EUR\nGermany 30"
+    },
+    {
+        "Name": "SSMI\nSWISS MARKET INDEX"
+    },
+    {
+        "Name": "RUA\nUS Small Cap 3000 Index"
+    }
+]

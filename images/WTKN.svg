@@ -1,0 +1,12 @@
+<!-- by TradingView --><svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" fill="url(#paint0_linear_228_5235)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43 13H13V43H43V13ZM42 14H14V42H42V14Z" fill="white"/>
+<rect x="21" y="27" width="5" height="12" fill="white"/>
+<rect x="29" y="21" width="5" height="18" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear_228_5235" x1="28" y1="0" x2="28" y2="56" gradientUnits="userSpaceOnUse">
+<stop stop-color="#181B1E"/>
+<stop offset="1" stop-color="#181B1E"/>
+</linearGradient>
+</defs>
+</svg>
